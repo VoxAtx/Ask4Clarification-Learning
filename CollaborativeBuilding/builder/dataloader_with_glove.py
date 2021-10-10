@@ -143,4 +143,82 @@ class BuilderDataset(Dataset):
             else:
                 utterances_to_add.insert(0, prev)
 
-            utterances_idx -= 
+            utterances_idx -= 1
+            i += 1
+
+        prev_utterances = []
+
+        for prev in utterances_to_add:
+            speaker = prev["speaker"]
+            utterance = prev["utterance"]
+
+            if "<dialogue>" in utterance[0]:
+                prev_utterances.append(self.encoder_vocab('<dialogue>'))
+
+            elif "<builder_" in utterance[0]:
+                if self.use_builder_actions:
+                    prev_utterances.append(self.encoder_vocab(utterance[0]))
+
+            else:
+                start_token = self.encoder_vocab('<architect>') if 'Architect' in speaker else self.encoder_vocab('<builder>')
+                end_token = self.encoder_vocab('</architect>') if 'Architect' in speaker else self.encoder_vocab('</builder>')
+                prev_utterances.append(start_token)
+                prev_utterances.extend(self.encoder_vocab(token) for token in utterance)
+                prev_utterances.append(end_token)  
+        
+        if len(prev_utterances) > self.max_length:
+            prev_utterances = prev_utterances[-100:]
+
+        while len(prev_utterances) < self.max_length:
+            prev_utterances.append(self.encoder_vocab.word2idx['<pad>'])
+
+        assert len(prev_utterances) == 100
+        
+        return (
+            torch.Tensor(prev_utterances),
+            torch.stack(dec_inputs_1), ## torch.Size([action, 8, 11, 9, 11])
+            torch.stack(dec_inputs_2), ## torch.Size([action, 11])
+            torch.Tensor(dec_outputs), ## torch.Size([action])
+            torch.Tensor(location_mask), ## torch.Size([action, 1089])
+            RawInputs(initial_prev_config_raw, initial_action_history_raw, end_built_config_raw, perspective_coords)
+        )
+
+    def get_repr(self, builder_action, perspective_coords):
+        config = builder_action.prev_config
+        for block in config:
+            for key in ['x', 'y', 'z']:
+                block[key] = int(block[key])
+
+        cell_samples = split_orig_sample(builder_action)
+
+        cell_repr_size = 6
+        if self.include_empty_channel:
+            cell_repr_size += 1
+        if self.add_action_history_weight and self.concatenate_action_history_weight:
+            cell_repr_size += 1
+
+        cell_samples_reprs_4d = torch.zeros([cell_repr_size, 11, 9, 11]) 
+        cell_samples_labels = []
+
+        for sample in cell_samples:
+            cell = Region(
+                x_min = sample["x"], x_max = sample["x"], y_min = sample["y"], y_max = sample["y"], z_min = sample["z"], z_max = sample["z"]
+            )
+
+            def get_current_state(cell, built_config):
+                current_state = "empty"
+
+                for block in built_config:
+                    if cell.x_min == block["x"] and cell.y_min == block["y"] and cell.z_min == block["z"]:
+                        current_state = block["type"]
+                        break
+
+                return current_state
+            current_state = get_current_state(cell, sample["built_config"]) 
+
+            def get_action_history_weight(cell, action_history):
+                if self.add_action_history_weight:
+                    action_history_weight = 0.0
+
+                    for i in range(len(action_history) - 1, -1, -1):
+                        action = action_history[i
