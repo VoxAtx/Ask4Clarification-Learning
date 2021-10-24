@@ -63,4 +63,92 @@ def diff2actions(diff):
     return placements + removals
 
 def add_action_type(action, placement_or_removal):
-	assert placement_or_removal in ["placement", "remov
+	assert placement_or_removal in ["placement", "removal"]
+
+	action_copy = copy.deepcopy(action)
+	action_copy["action_type"] = placement_or_removal
+
+	return action_copy
+
+def get_pos_neg_count(generated_actions, gt_actions):
+    net_change_generated = set(map(dict_to_tuple, generated_actions))
+    net_change_gt = set(map(dict_to_tuple, gt_actions))
+
+    fn = len(net_change_gt - net_change_generated)
+    fp = len(net_change_generated - net_change_gt)
+    tp = len(net_change_generated & net_change_gt)
+
+    return fn, fp, tp
+
+def get_feasibile_location(built_config):
+    """
+    location_mask: generate a list with 1089 locations. 1 means feasible. 
+    """
+    location_mask = []
+    for action_label in range(0, 7*11*9*11, 7):
+        is_feasible = 0 
+        for action_id in [0, 6]: # Test placement and removal respectively
+            action_label_test = action_label + action_id
+            if is_feasible_action(built_config, action_label_test):
+                is_feasible = 1
+                break
+        location_mask.append(is_feasible)
+    return location_mask
+
+def update_last_action(action_location, action_action_type, color_pred):
+    action_label = convert_to_scalar_label((action_location, action_action_type, color_pred))
+    return action_label2action_repr(action_label)
+
+def update_obs(prev_config, action_history, action_location, action_action_type, color_pred, dataloader, perspective_coords):
+    action_label = convert_to_scalar_label((action_location, action_action_type, color_pred))
+    built_config_post_last_action = update_built_config(prev_config, action_label) 
+    new_action_history = update_action_history(action_history, action_label, prev_config)
+    cell_samples_reprs_4d, label, location_mask = dataloader.get_repr(
+        BuilderActionExample(
+            action=None, # only ever used for computing output label which we don't need -- so None is okay
+            built_config=None,
+            prev_config=built_config_post_last_action,
+            action_history=new_action_history),
+            perspective_coords
+	        )
+    return cell_samples_reprs_4d, location_mask, built_config_post_last_action, new_action_history
+
+def convert_to_scalar_label(pred):
+    location_pred, action_type_pred, color_pred = pred
+    if action_type_pred==2:
+        return int(stop_action_label)
+    elif action_type_pred==1:
+        return int(location_pred*7+6)
+    else:
+        return int(location_pred*7+color_pred)
+
+
+# bounds of the build region
+x_min = -5
+x_max = 5
+y_min = 1
+y_max = 9
+z_min = -5
+z_max = 5 
+location2xyz = {}
+location_id = 0
+for x in range(x_min, x_max + 1):
+    for y in range(y_min, y_max + 1):
+        for z in range(z_min, z_max + 1):
+            location2xyz[location_id] = (x, y, z)
+            location_id += 1
+# print('Length of location2xyz is', len(location2xyz))
+
+
+
+
+# from builder.decoding import update_built_config, is_feasible_action
+# from builder.diff import diff, get_diff, dict_to_tuple
+# from utils import action_label2action_repr, BuilderActionExample
+# import copy
+
+# stop_action_label = 7*11*9*11
+
+# def compute_action_prf(fn, fp, tp):
+#     action_precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
+#     action_recall = tp 
