@@ -220,3 +220,144 @@ class Vocabulary(object):
 					self.word_vectors = np.concatenate((self.word_vectors, np.random.rand(1, embed_size)), 0)
 					self.add_word(word)
 					self.oov_words.add(word)
+
+	def print_vocab_statistics(self):
+		# compute number of rare word types and tokens
+		rare_words = 0
+		rare_tokens = 0
+		for word in self.word_counts:
+			if word not in self.word2idx:
+				rare_words += 1
+				rare_tokens += self.word_counts[word]
+
+		# compute number of OOV word types and tokens
+		oov_tokens, total_tokens = 0, 0
+		for word in self.word_counts:
+			total_tokens += self.word_counts[word]
+			if word in self.oov_words:
+				oov_tokens += self.word_counts[word]
+
+		# compute number of utterances in training data with UNK in them
+		unk_utterances = 0
+		for utterance in self.tokenized_data:
+			for word in utterance:
+				if word not in self.word2idx:
+					unk_utterances += 1
+					break
+
+		print("\n"+str(rare_words), "of", len(self.word_counts), "total word types ("+'{:.1%}'.format(rare_words/float(len(self.word_counts)))+") in the train set were treated as unk, as they did not meet the rare word threshold ("+str(self.threshold)+").")
+		print("There are", rare_tokens, "total rare word tokens out of", total_tokens, "total tokens ("+'{:.1%}'.format(rare_tokens/float(total_tokens))+").")
+		print("Added", len(self.oov_words), "OOV word types to vocabulary, out of a total of", len(self.word_counts), "word types in the train set ("+'{:.1%}'.format(len(self.oov_words)/float(len(self.word_counts)))+").")
+		print("There are", oov_tokens, "total OOV tokens out of", total_tokens, "total tokens ("+'{:.1%}'.format(oov_tokens/float(total_tokens))+").\n")
+		print("OOV words:", self.oov_words, "\n")
+		print("There are", unk_utterances, "UNK utterances out of", len(self.tokenized_data), "total utterances ("+'{:.1%}'.format(unk_utterances/float(len(self.tokenized_data)))+").\n")
+
+	def add_word(self, word):
+		""" Adds a word to the vocabulary. """
+		idx = len(self.word2idx)
+		self.word2idx[word] = idx
+		self.idx2word[idx] = word
+
+	def __call__(self, word):
+		""" Gets a word's index. If the word doesn't exist in the vocabulary, returns the index of the unk token. """
+		if not word in self.word2idx:
+			return self.word2idx['<unk>']
+		return self.word2idx[word]
+
+	def __len__(self):
+		""" Returns size of the vocabulary. """
+		return len(self.word2idx)
+
+	def __str__(self):
+		""" Prints vocabulary in human-readable form. """
+		vocabulary = ""
+		for key in self.idx2word.keys():
+			vocabulary += str(key) + ": " + self.idx2word[key] + "\n"
+		return vocabulary
+
+def write_train_word_counts(vocab_path, word_counts, oov_words, threshold):
+	sorted_word_counts = sorted(word_counts.items(), key=lambda k_v: k_v[1], reverse=True)
+	with open(os.path.join('../vocabulary', vocab_path, 'word_counts.txt'), 'w') as f:
+		for key, value in sorted_word_counts:
+			suffix = 'unk' if value < threshold else 'oov' if key in oov_words else ''
+			f.write(key.ljust(30)+str(value).ljust(10)+suffix+'\n')
+	print("Wrote word counts to", os.path.join('../vocabulary', vocab_path, 'word_counts.txt'), '\n')
+
+def main(args):
+	""" Creates a vocabulary according to specified arguments and saves it to disk. """
+	if not os.path.isdir('../vocabulary'):
+		os.makedirs('../vocabulary')
+
+	# create vocabulary filename based on parameter settings
+	if args.vocab_name is None:
+		lower = "-lower" if args.lower else ""
+		threshold = "-"+str(args.threshold)+"r" if args.threshold > 0 else ""
+		speaker_tokens = "-speaker" if args.use_speaker_tokens else ""
+		action_tokens = "-builder_actions" if args.use_builder_action_tokens else ""
+		oov_as_unk = "-oov_as_unk" if args.oov_as_unk else ""
+		all_splits = "-all_splits" if args.all_splits else "-train_split"
+		architect_only = "-architect_only" if not args.add_builder_utterances and not args.builder_utterances_only else ""
+		builder_utterances_only = "-builder_only" if args.builder_utterances_only else ""
+
+		if args.vector_filename is None:
+			args.vocab_name = "no-embeddings-"+str(args.embed_size)+"d"
+		else:
+			args.vocab_name = args.vector_filename.split("/")[-1].replace('.txt','').replace('.bin.gz','')
+
+		args.vocab_name += lower+threshold+speaker_tokens+action_tokens+oov_as_unk+all_splits+architect_only+builder_utterances_only+"/"
+
+	args.vocab_name = os.path.join(args.base_vocab_dir, args.vocab_name)
+
+	if not os.path.exists(args.vocab_name):
+		os.makedirs(args.vocab_name)
+
+	# logger
+	sys.stdout = Logger(os.path.join(args.vocab_name, 'vocab.log'))
+	print(args)
+
+	# create the vocabulary
+	vocabulary = Vocabulary(data_path=args.data_path, vector_filename=args.vector_filename,
+		embed_size=args.embed_size, use_speaker_tokens=args.use_speaker_tokens, use_builder_action_tokens=args.use_builder_action_tokens,
+		add_words=not args.oov_as_unk, lower=args.lower, threshold=args.threshold, all_splits=args.all_splits, add_builder_utterances=args.add_builder_utterances,
+		builder_utterances_only=args.builder_utterances_only)
+
+	if args.verbose:
+		print(vocabulary)
+
+	write_train_word_counts(args.vocab_name, vocabulary.word_counts, vocabulary.oov_words, vocabulary.threshold)
+
+	# save the vocabulary to disk
+	print("Saving the vocabulary ...")
+	with open(os.path.join(args.vocab_name, 'vocab.pkl'), 'wb') as f:
+		pickle.dump(vocabulary, f)
+		print("Saved the vocabulary to '%s'" %os.path.realpath(f.name))
+
+	print("Total vocabulary size: %d" %len(vocabulary))
+
+	print("\nSaving git commit hashes ...\n")
+
+	sys.stdout = sys.__stdout__
+
+if __name__ == '__main__':
+	parser = argparse.ArgumentParser()
+	parser.add_argument('--vocab_name', type=str, nargs='?', default=None,
+		help='directory for saved vocabulary wrapper -- auto-generated from embeddings file name if not provided')
+	parser.add_argument('--base_vocab_dir', type=str, default='../../data/vocabulary/', help='location for all saved vocabulary files')
+	parser.add_argument('--vector_filename', type=str, default='../../data/glove.42B.300d.txt')
+	parser.add_argument('--embed_size', type=int, default=300, help='size of word embeddings')
+	parser.add_argument('--data_path', type=str, default='../../data/logs/', help='path for training data files')
+	parser.add_argument('--oov_as_unk', default=False, action='store_true', help='do not add oov words to the vocabulary (instead, treat them as unk tokens)')
+	parser.add_argument('--lower', default=False, action='store_true',  help='lowercase tokens in the dataset')
+	parser.add_argument('--use_speaker_tokens', default=False, action='store_true', help='use speaker tokens <Architect> </Architect> and <Builder> </Builder> instead of sentence tokens <s> and </s>')
+	parser.add_argument('--use_builder_action_tokens', default=False, action='store_true', help='use builder action tokens for pickup/putdown actions, e.g. <builder_pickup_red> and <builder_putdown_red>')
+	parser.add_argument('--threshold', type=int, default=1, help='rare word threshold for oov words in the train set')
+	parser.add_argument('--all_splits', default=False, action='store_true',  help='whether or not to use val and test data as well')
+	parser.add_argument('--add_builder_utterances', default=False, action='store_true',  help='whether or not to include builder utterances')
+	parser.add_argument('--builder_utterances_only', default=False, action='store_true',  help='whether or not to store only builder utterances')
+	parser.add_argument('--verbose', action='store_true', help='print vocabulary in plaintext to console')
+	parser.add_argument('--seed', type=int, default=1234, help='random seed')
+
+	args = parser.parse_args()
+	initialize_rngs(args.seed, torch.cuda.is_available())
+	print('args.vector_filename', args.vector_filename)
+	main(args)
