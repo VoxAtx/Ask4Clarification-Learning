@@ -541,4 +541,74 @@ def index(curr_block, prev_blocks):
     If not found in the list, returns a very large number (meaning it's a newly placed block and should be placed at the end when sorting temporally).
     """
     for i, prev_block in enumerate(prev_blocks):
-        if are_equa
+        if are_equal(curr_block, prev_block):
+            return i
+
+    return 999
+
+def are_equal(block_1, block_2):
+    """
+    Returns a comparison result between 2 blocks by ignoring the ever changing perspective coordinates
+    """
+    return reformat(block_1) == reformat(block_2)
+
+def get_last_action(curr_blocks, prev_blocks):
+    curr_blocks = list(map(reformat, curr_blocks))
+    prev_blocks = list(map(reformat, prev_blocks))
+
+    diff_dict = diff(gold_config = curr_blocks, built_config = prev_blocks)
+
+    diff_dict["gold_minus_built"] = sorted(diff_dict["gold_minus_built"], key=itemgetter('x', 'y', 'z', 'type'))
+    diff_dict["built_minus_gold"] = sorted(diff_dict["built_minus_gold"], key=itemgetter('x', 'y', 'z', 'type'))
+
+    all_actions = diff_dict["gold_minus_built"] + diff_dict["built_minus_gold"]
+
+    return all_actions[0] if all_actions else None
+
+if __name__ == '__main__':
+    """
+    Use this section to generate datasets and for debugging purposes.
+    BE CAREFUL TO NOT OVERWRITE EXISTING DATASETS AS DATASETS ARE NOT VERSION CONTROLLED.
+    """
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--split', default='train', help='dataset split')
+    
+    parser.add_argument('--builder_utterance_labels', default='../../builder_utterance_labels.txt')
+    parser.add_argument('--save_dest_dir', default='../builder_with_questions_data', help='where to write samples') 
+    parser.add_argument('--aug_data_dir', default='', help='where to load augmented data from')
+    parser.add_argument('--aug_gold_configs_dir', default='', help='where to load augmented gold configs from')
+
+    parser.add_argument('--dump_dataset', default=True, help='build the dataset')
+    parser.add_argument('--add_augmented_data', default=False, action='store_true', help='add dialog-level augmented dataset')
+    parser.add_argument('--ignore_perspective', default=False, action='store_true', help='skip computing perspective coordinates')
+
+    parser.add_argument('--load_dataset', default=False, action='store_true', help='load a dataset')
+    parser.add_argument('--saved_dataset_dir', default="../builder_with_questions_data", help='location of saved dataset')
+
+    parser.add_argument('--aug_sampling_strict', default=False, action='store_true', help='whether or not to sample strictly, i.e., from every aug group -- we recommend sticking to the default')
+
+    parser.add_argument('--seed', type=int, default=1234, help='random seed')
+
+    args = parser.parse_args()
+
+    builder_utterance_labels = {}
+    with open(args.builder_utterance_labels, 'r') as f:
+        lines = f.readlines()
+        for i in range(len(lines)):
+            line = lines[i].strip().strip('\n')
+            if not line:
+                continue
+            if is_a_id(line):
+                if i != 0:
+                    builder_utterance_labels[unique_id] = builder_utterance_dict
+                unique_id = line
+                builder_utterance_dict = {}
+            else:
+                utterance, label, corrected_utterance = split_line(line)
+                builder_utterance_dict[utterance] = label
+        builder_utterance_labels[unique_id] = builder_utterance_dict
+
+    dataset = CwCDataset(
+        split=args.split, compute_perspective=not args.ignore_perspective,
+		dump_dataset=args.dump_dataset, load_dataset=args.load_dataset,
+      
