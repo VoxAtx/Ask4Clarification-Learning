@@ -370,4 +370,85 @@ class CwCDataset(Dataset):
 							idx = elem['idx']
 							built_config = elem["built_config"]
 							prev_config = elem["prev_config"] ## list of dicts, prev_config is always one elem less than built_config
-							prev_builder_position = elem["pr
+							prev_builder_position = elem["prev_builder_position"]
+
+							def valid_config(config):
+								if not config:
+									return True
+
+								for block in config:
+									x, y, z = block["x"]-x_min, block["y"]-y_min, block["z"]-z_min
+									if x < 0 or x >= x_range or y < 0 or y >= y_range or z < 0 or z >= z_range:
+										return False
+
+								return True
+
+							# temporary fix for troublesome configs
+							if not valid_config(built_config) or not valid_config(prev_config):
+								continue
+
+							skip_sample = False
+							for next_action in all_next_actions:
+								if not valid_config(next_action.built_config) or not valid_config(next_action.prev_config):
+									skip_sample = True
+									break
+
+							if skip_sample:
+								print('Skipping one sample (zshi)')
+								continue ## if there is a problem found above, then this example will be skipped.
+
+							prev_utterances = []
+							prev_utterances.append({'speaker': 'Builder', 'utterance': ['<dialogue>']})
+
+							for k in range(i):
+								prev_elem = chat_with_actions_history[k]
+
+								if prev_elem['action'] != 'chat': ## Action 
+									prev_utterances.append({'speaker': 'Builder', 'utterance': ['<builder_'+prev_elem['action']+'_'+prev_elem['type']+'>']})
+
+								else:  ## Utterance 
+									prev_utterance = prev_elem['utterance']
+									prev_speaker = "Architect" if "Architect" in prev_utterance.split()[0] else "Builder"
+									prev_utterance = prev_utterance[len(architect_prefix):] if prev_speaker == 'Architect' else prev_utterance[len(builder_prefix):]
+									prev_tokenized, _ = tokenize(prev_utterance.lower() if lower else prev_utterance) ## (zshi)			
+									prev_utterances.append({'speaker': prev_speaker, 'utterance': prev_tokenized})
+
+							perspective_coordinates = None if not compute_perspective else torch.Tensor(get_perspective_coord_repr(prev_builder_position))
+
+							add_dict = {}
+
+							add_dict.update({'builder_action_history': observation["ActionHistory"][:-1]})
+							add_dict.update({'next_builder_actions': all_next_actions})
+							
+							add_dict.update(
+								{
+									'prev_utterances': prev_utterances, # previous utterances
+									'gold_config': gold_config,
+									'built_config': built_config,
+									'prev_config': prev_config if prev_config else [], # NOTE: CRITICAL FOR PREDICTING BUILDER ACTIONS -- INPUT TO MODEL SHOULD BE THIS AND NOT BUILT CONFIG
+									'prev_builder_position': prev_builder_position,
+									'perspective_coordinates': perspective_coordinates,
+									'from_aug_data': js['from_aug_data'],
+									'json_id': j, # ID of the json this sample was obtained from
+									'sample_id': idx, # ID assigned to this sample,
+									'orig_experiment_id': orig_log_dir # original log dir/experiment ID (for augmented data -- this is the same as the original counterpart)
+								}
+							)
+
+							samples.append(add_dict)
+
+				except Exception:
+					print('Something went wrong processing this json, skipping...')
+					traceback.print_exc()
+
+		except KeyboardInterrupt:
+			print('Exiting from processing json early... Not all samples have been added.')
+
+		return samples
+
+	def __len__(self):
+		""" Returns length of dataset. """
+		return len(self.samples)
+
+	def get_data_loader(self, batch_size=1, shuffle=True, num_workers=1):
+		return DataLoader(dataset=self, 
