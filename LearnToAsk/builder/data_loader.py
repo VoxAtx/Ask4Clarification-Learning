@@ -451,4 +451,94 @@ class CwCDataset(Dataset):
 		return len(self.samples)
 
 	def get_data_loader(self, batch_size=1, shuffle=True, num_workers=1):
-		return DataLoader(dataset=self, 
+		return DataLoader(dataset=self, batch_size=batch_size, shuffle=shuffle, num_workers=num_workers, collate_fn=self.collate_fn)
+
+# UTILS
+
+class Region:
+    """
+        Stores a specfic region in 3d space
+    """
+    def __init__(self, x_min, x_max, y_min, y_max, z_min, z_max):
+        """
+            Bounds of the region
+        """
+        self.x_min = x_min
+        self.x_max = x_max
+        self.y_min = y_min
+        self.y_max = y_max
+        self.z_min = z_min
+        self.z_max = z_max
+
+        assert self.x_min <= self.x_max and self.y_min <= self.y_max and self.z_min <= self.z_max, "Invalid x/y/z bounds for Region object."
+
+def group_samples_by_id(samples):
+	groups = []
+	uniquekeys = []
+	sorted_samples = sorted(samples, key=lambda x: (x["orig_experiment_id"], x["sample_id"]))
+	for k, g in itertools.groupby(sorted_samples, key=lambda x: (x["orig_experiment_id"], x["sample_id"])):
+		groups.append(list(g))
+		uniquekeys.append(k)
+
+	return groups, uniquekeys
+
+def sample_strictly(grouped_aug_samples, num_samples):
+	sampled = []
+	for group in grouped_aug_samples:
+		for sample in list(np.random.choice(group, num_samples, replace=False)):
+			sampled.append(sample)
+
+	return sampled
+
+def discretize_yaw(yaw):
+    """
+        Discretize a yaw angle into the 4 canonical yaw angles/directions
+    """
+    # normalize to [0, 360]
+    if yaw < 0:
+        yaw_normalized = 360 + yaw
+    else:
+        yaw_normalized = yaw
+
+    # discretize
+    if (yaw_normalized >= 270 + 45 and yaw_normalized <= 360) or (yaw_normalized >= 0 and yaw_normalized < 0 + 45):
+        return 0
+    elif yaw_normalized >= 0 + 45 and yaw_normalized < 90 + 45:
+        return 90
+    elif yaw_normalized >= 90 + 45 and yaw_normalized < 180 + 45:
+        return 180
+    else:
+        return -90
+
+def remove_empty_states(observations):
+    observations["WorldStates"] = list(filter(lambda x: x["BuilderPosition"] != None, observations["WorldStates"]))
+    return observations
+
+def reorder(observations):
+    """
+    Returns the observations dict by reordering blocks temporally in every state
+    """
+    for i, state in enumerate(observations["WorldStates"]):
+        prev_blocks = [] if i == 0 else observations["WorldStates"][i-1]["BlocksInGrid"]
+        # pp.PrettyPrinter(indent=4).pprint(state)
+        curr_blocks = state["BlocksInGrid"]
+        curr_blocks_reordered = reorder_blocks(curr_blocks, prev_blocks) # obtain temporal ordering of blocks
+        observations["WorldStates"][i]["BlocksInGrid"] = curr_blocks_reordered # mutate - will be used in next iteration
+
+    return observations
+
+def reorder_blocks(curr_blocks, prev_blocks):
+    """
+    Returns a sorted version of the list of current blocks based on their order in the list of previous blocks.
+    The assumption is that previous blocks are already sorted temporally.
+    So this preserves that order for those blocks and puts any newly placed ones at the very end.
+    """
+    return sorted(curr_blocks, key = lambda x: index(x, prev_blocks))
+
+def index(curr_block, prev_blocks):
+    """
+    Returns position of current block in the list of previous blocks.
+    If not found in the list, returns a very large number (meaning it's a newly placed block and should be placed at the end when sorting temporally).
+    """
+    for i, prev_block in enumerate(prev_blocks):
+        if are_equa
