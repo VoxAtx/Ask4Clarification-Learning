@@ -86,4 +86,99 @@ class Vocabulary(object):
 		fixed_tokenizations = set()
 
 		# compute word counts for all tokens in training dataset
-		f
+		for i in range(len(jsons)):
+			js = jsons[i]
+			final_observation = js["WorldStates"][-1]
+
+			for i in range(1, len(final_observation["ChatHistory"])):
+				line = final_observation["ChatHistory"][i]
+
+				speaker = "Architect" if "Architect" in line.split()[0] else "Builder"
+				if speaker == "Architect":
+					# Skip over architect if only want builder utterances
+					if self.builder_utterances_only:
+						continue
+					else:
+						utterance = line[len(architect_prefix):]
+				else:
+					# Include builder if either flag is on
+					if self.add_builder_utterances or self.builder_utterances_only:
+						utterance = line[len(builder_prefix):]
+					else:
+						continue
+
+				if self.lower:
+					utterance = utterance.lower()
+
+				tokenized, fixed = tokenize(utterance)
+				fixed_tokenizations.update(fixed)
+				self.tokenized_data.append(tokenized) 
+
+				for word in tokenized:
+					self.word_counts[word] += 1
+
+		print("\nTokenizations fixed:", fixed_tokenizations, "\n")
+
+	def init_vectors(self):
+		embed_size = self.embed_size
+
+		# pad token
+		vector_arr = np.zeros((1, embed_size))
+		self.add_word('<pad>') # id 0 # vector of 0's
+
+		if not self.vector_filename:
+			vector_arr = np.concatenate((vector_arr, np.random.rand(1, embed_size)), 0)
+			self.add_word('<unk>')
+
+		# start & end of sentence symbols
+		if not self.use_speaker_tokens: 
+			vector_arr = np.concatenate((vector_arr, np.random.rand(2, embed_size)), 0)
+			self.add_word('<s>') # id 1 # random vector
+			self.add_word('</s>') # id 2 # random vector
+
+		# speaker tokens
+		else:
+			vector_arr = np.concatenate((vector_arr, np.random.rand(6, embed_size)), 0)
+			self.add_word('<dialogue>') # id 1 # random vector
+			self.add_word('</dialogue>') # id 2 # random vector
+			self.add_word('<architect>') # id 3 # random vector
+			self.add_word('</architect>') # id 4 # random vector
+			self.add_word('<builder>') # id 5 # random vector
+			self.add_word('</builder>') # id 6 # random vector
+
+		if self.use_builder_action_tokens: 
+			vector_arr = np.concatenate((vector_arr, np.random.rand(12, embed_size)), 0)
+			for color_key in type2id:
+				self.add_word('<builder_pickup_'+color_key+'>')
+				self.add_word('<builder_putdown_'+color_key+'>')
+
+		self.word_vectors = vector_arr
+
+	def load_vectors(self):
+		vector_filename = self.vector_filename
+		print("\nLoading word embedding vectors from", vector_filename, "...")
+
+		embed_size = self.embed_size
+		threshold = self.threshold
+
+		f = None
+		if vector_filename.endswith('.gz'): # TODO: this doesn't work. fix loading of word2vec pretrained model
+			f = gzip.open(vector_filename, 'rt')
+		else:
+			f = open(vector_filename, 'r')
+
+		# load word embeddings from file
+		data = []
+		data_rare = []
+		for line in f:
+			tokens = line.split()
+
+			if len(tokens) != embed_size+1:
+				print("Warning: expected line length:", str(embed_size+1)+", got:", str(len(tokens))+"; Line:", " ".join(line.split()[:3]), "...", " ".join(line.split()[-3:]))
+				continue
+
+			word = tokens[0]
+
+			# discard out-of-domain embeddings, if desired
+			if word not in self.word_counts or self.word_counts[word] < threshold: # if not in data or if rare
+				if word in self.word_counts: # rare words in data but h
