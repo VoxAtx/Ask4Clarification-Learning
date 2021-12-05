@@ -103,4 +103,138 @@
             "Instruction-level Questions"
         ],
         [
-            "<bu
+            "<builder> the center of the bridge? on the purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i'm out of red",
+            "Status Update"
+        ]
+    ],
+    "B47-A30-C19-1523545432382": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> the top of the ladder? and how far?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B47-A30-C18-1523545846349": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B47-A30-C27-1523546055656": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> of he red t?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> 4 squares?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> parallel, or perpendicular to the yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> do it block by block",
+            "Suggestions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> from this end?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> and 3 wide, like the rest?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B47-A30-C36-1523546973724": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> 3x2?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> stupid question",
+            "Others"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that was my right",
+            "Status Update"
+        ],
+        [
+            "<builder> premature demolition",
+            "Others"
+        ]
+    ],
+    "B47-A30-C33-1523547603957": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> dw about it",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> with the green block as one end?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or like this?",
+            "Verification Questions"
+        ]
+    ],
+    "B47-A30-C35-1523548092310": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> a single block?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B47-A30-C29-1523548488813": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<build
