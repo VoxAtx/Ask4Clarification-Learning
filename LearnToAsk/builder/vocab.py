@@ -252,4 +252,74 @@ class Vocabulary(object):
 
 	def add_word(self, word):
 		""" Adds a word to the vocabulary. """
-		idx = len(self.word2i
+		idx = len(self.word2idx)
+		self.word2idx[word] = idx
+		self.idx2word[idx] = word
+
+	def __call__(self, word):
+		""" Gets a word's index. If the word doesn't exist in the vocabulary, returns the index of the unk token. """
+		if not word in self.word2idx:
+			return self.word2idx['<unk>']
+		return self.word2idx[word]
+
+	def __len__(self):
+		""" Returns size of the vocabulary. """
+		return len(self.word2idx)
+
+	def __str__(self):
+		""" Prints vocabulary in human-readable form. """
+		vocabulary = ""
+		for key in self.idx2word.keys():
+			vocabulary += str(key) + ": " + self.idx2word[key] + "\n"
+		return vocabulary
+
+def write_train_word_counts(vocab_path, word_counts, oov_words, threshold):
+	sorted_word_counts = sorted(word_counts.items(), key=lambda k_v: k_v[1], reverse=True)
+	with open(os.path.join('../vocabulary', vocab_path, 'word_counts.txt'), 'w') as f:
+		for key, value in sorted_word_counts:
+			suffix = 'unk' if value < threshold else 'oov' if key in oov_words else ''
+			f.write(key.ljust(30)+str(value).ljust(10)+suffix+'\n')
+	print("Wrote word counts to", os.path.join('../vocabulary', vocab_path, 'word_counts.txt'), '\n')
+
+def main(args):
+	""" Creates a vocabulary according to specified arguments and saves it to disk. """
+	if not os.path.isdir('../vocabulary'):
+		os.makedirs('../vocabulary')
+
+	# create vocabulary filename based on parameter settings
+	if args.vocab_name is None:
+		lower = "-lower" if args.lower else ""
+		threshold = "-"+str(args.threshold)+"r" if args.threshold > 0 else ""
+		speaker_tokens = "-speaker" if args.use_speaker_tokens else ""
+		action_tokens = "-builder_actions" if args.use_builder_action_tokens else ""
+		oov_as_unk = "-oov_as_unk" if args.oov_as_unk else ""
+		all_splits = "-all_splits" if args.all_splits else "-train_split"
+		architect_only = "-architect_only" if not args.add_builder_utterances and not args.builder_utterances_only else ""
+		builder_utterances_only = "-builder_only" if args.builder_utterances_only else ""
+
+		if args.vector_filename is None:
+			args.vocab_name = "no-embeddings-"+str(args.embed_size)+"d"
+		else:
+			args.vocab_name = args.vector_filename.split("/")[-1].replace('.txt','').replace('.bin.gz','')
+
+		args.vocab_name += lower+threshold+speaker_tokens+action_tokens+oov_as_unk+all_splits+architect_only+builder_utterances_only+"/"
+
+	args.vocab_name = os.path.join(args.base_vocab_dir, args.vocab_name)
+
+	if not os.path.exists(args.vocab_name):
+		os.makedirs(args.vocab_name)
+
+	# logger
+	sys.stdout = Logger(os.path.join(args.vocab_name, 'vocab.log'))
+	print(args)
+
+	# create the vocabulary
+	vocabulary = Vocabulary(data_path=args.data_path, vector_filename=args.vector_filename,
+		embed_size=args.embed_size, use_speaker_tokens=args.use_speaker_tokens, use_builder_action_tokens=args.use_builder_action_tokens,
+		add_words=not args.oov_as_unk, lower=args.lower, threshold=args.threshold, all_splits=args.all_splits, add_builder_utterances=args.add_builder_utterances,
+		builder_utterances_only=args.builder_utterances_only)
+
+	if args.verbose:
+		print(vocabulary)
+
+	write_train_word_counts(args.vocab_name, vocabulary.word_coun
