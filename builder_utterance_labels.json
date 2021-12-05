@@ -1,0 +1,106 @@
+{
+    "B47-A30-C17-1523543622315": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> any orientation?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B47-A30-C77-1523543724130": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> any color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> across, i presume?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what color next?",
+            "Task-level Questions"
+        ]
+    ],
+    "B47-A30-C90-1523544013938": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this block i'm standing on?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> and how large?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this good so far?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or more like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> silly me, you said that",
+            "Others"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> one block too short",
+            "Status Update"
+        ],
+        [
+            "<builder> there we go",
+            "Status Update"
+        ]
+    ],
+    "B47-A30-C23-1523544822631": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> so make a second row 8 spaces ahead?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> repeat?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> all 4 sides?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or only two?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<bu

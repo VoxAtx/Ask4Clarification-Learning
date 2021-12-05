@@ -444,3 +444,42 @@ def main(args, config):
             writer.add_scalars("Acc", {"train": train_acc, "validation": valid_acc}, epoch)
             
             print('Valid | Loss: {}, Acc: {}'.format(valid_loss, valid_acc))
+            print('Acc', each_type_acc)
+            print('Type Acc:\n', round(each_type_acc[0][0]/sum(each_type_acc[0]),4), round(each_type_acc[0][1]/sum(each_type_acc[0]),4), round(each_type_acc[0][2]/sum(each_type_acc[0]),4),'\n',\
+                round(each_type_acc[1][0]/sum(each_type_acc[1]),4), round(each_type_acc[1][1]/sum(each_type_acc[1]),4), round(each_type_acc[1][2]/sum(each_type_acc[1]),4),'\n',\
+                round(each_type_acc[2][0]/sum(each_type_acc[2]),4), round(each_type_acc[2][1]/sum(each_type_acc[2]),4), round(each_type_acc[2][2]/sum(each_type_acc[2]),4))
+    else:
+        print('Please select a correct task type.')
+
+    writer.close()
+    f_output.close()
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--seed', default=0, type=int)
+    parser.add_argument('--lr', type=float, default=1e-6)
+    parser.add_argument('--config_path', type=str, default='./builder/config.json')
+    parser.add_argument('--saved_models_path', type=str, default='./default_path', help='path for saving trained models')
+    parser.add_argument('--encoder_vocab_path', type=str, default='../data/vocabulary/glove.42B.300d-lower-1r-speaker-oov_as_unk-all_splits/vocab.pkl')
+    # Args for dataset
+    parser.add_argument('--json_data_dir', type=str, default="./builder_with_questions_data") 
+    parser.add_argument('--task_name', type=str, default="learn_to_ask") # learn_to_ask_or_execute
+    parser.add_argument('--load_items', default=True)
+    parser.add_argument('--from_trained', default='')
+    parser.add_argument('--beta_0', type=float, default=0.1)
+    parser.add_argument('--beta_1', type=float, default=0.8)
+    parser.add_argument('--beta_2', type=float, default=0.1)
+
+    args = parser.parse_args()
+    with open(args.config_path, "r") as fp:
+        config = json.load(fp)
+    if args.task_name == 'learn_to_ask_or_execute':
+        config['decoder_config']['action_type_size'] = 5
+    config['decoder_config']['loss_weight'] = (args.beta_0, args.beta_1, args.beta_2)
+    config['train_config']['lr'] = args.lr
+    config['train_config']['json_data_dir'] = args.json_data_dir
+    config['train_config']['task_name'] = args.task_name
+    config['seed'] = args.seed
+    seed_torch(args.seed)
+    main(args, config)
