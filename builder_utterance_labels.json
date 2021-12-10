@@ -237,4 +237,130 @@
             "Greeting"
         ],
         [
-            "<build
+            "<builder> tetris!",
+            "Others"
+        ],
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i'm making the t shape, yeah?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> which edge?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this one?",
+            "Verification Questions"
+        ]
+    ],
+    "B27-A25-C93-1523572845054": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> lets go",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B27-A25-C96-1523573042341": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ]
+    ],
+    "B44-A36-C3-1523573135199": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> are you there?",
+            "Greeting"
+        ],
+        [
+            "<builder> which one?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B27-A25-C91-1523573214139": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> in the middle?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> good?",
+            "Verification Questions"
+        ]
+    ],
+    "B44-A36-C101-1523573407514": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> was that last one a warmup? seemed really easy",
+            "Others"
+        ],
+        [
+            "<builder> you don't have to give me individual instructions for getting out colored blocks. just tell me to place x colored block here or there",
+            "Suggestions"
+        ],
+        [
+            "<builder> i think the instructions would be more effective if you told me where to place blocks relative to where other blocks are rather than where i am located",
+            "Suggestions"
+        ],
+        [
+            "<builder> does the green block go here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok how many spaces forwar/backward/left/right/up/down from the current location of the green block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> do you mean behind?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> the green bloc
