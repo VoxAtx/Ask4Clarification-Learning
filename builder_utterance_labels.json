@@ -363,4 +363,124 @@
             "Instruction-level Questions"
         ],
         [
-            "<builder> the green bloc
+            "<builder> the green block cannot be in front because there is an orange block there",
+            "Status Update"
+        ],
+        [
+            "<builder> where?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this good",
+            "Verification Questions"
+        ]
+    ],
+    "B27-A25-C94-1523573532771": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> towards the edge im facing?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B27-A25-C89-1523574163819": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> starting there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ]
+    ],
+    "B44-A36-C97-1523574614866": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello. ready",
+            "Greeting"
+        ],
+        [
+            "<builder> i'm confused. i went to the red block and placed a red block behind it. what am i doing wrong?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> the red block is behind the first red block from my perspective. i think it would be easier if you gave me instructions from my point of view",
+            "Suggestions"
+        ],
+        [
+            "<builder> there is already a blue block in front of the red block i just placed",
+            "Status Update"
+        ],
+        [
+            "<builder> would you like me to shift points of views to this side?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> should it be 2?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok i'm just restoring it to what it was like before you said wait no. what do i do to change this?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ]
+    ],
+    "B27-A25-C92-1523574663577": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> does it matter where?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cherries?",
+            "Others"
+        ]
+    ],
+    "B27-A25-C97-1523575407320
