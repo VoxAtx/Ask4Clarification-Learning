@@ -623,4 +623,139 @@
             "Display Understanding"
         ],
         [
-            "<
+            "<builder> is this what you meant",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i thought you said right for some reason",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ready",
+            "Display Understanding"
+        ],
+        [
+            "<builder> correct?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i think",
+            "Display Understanding"
+        ],
+        [
+            "<builder> done!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> thats not mirror",
+            "Status Update"
+        ],
+        [
+            "<builder> across no centerline is that a mirror",
+            "Others"
+        ],
+        [
+            "<builder> looks like a some sea monsters with just their heads poking out of the water",
+            "Others"
+        ]
+    ],
+    "B49-A39-C71-1523766649650": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready player one",
+            "Greeting"
+        ],
+        [
+            "<builder> are the outer blocks each on an edge?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> if you say so",
+            "Display Understanding"
+        ],
+        [
+            "<builder> np",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> done!",
+            "Display Understanding"
+        ]
+    ],
+    "B49-A39-C78-1523767236013": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> lets do it",
+            "Greeting"
+        ],
+        [
+            "<builder> like an upside down u",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> or like the st louis arch",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ..",
+            "Others"
+        ],
+        [
+            "<builder> arc de triumph",
+            "Others"
+        ],
+        [
+            "<builder> each what",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or this",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> maybe",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ]
+    ],
+    "B49-A39-C55-1523767968053": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greetin
