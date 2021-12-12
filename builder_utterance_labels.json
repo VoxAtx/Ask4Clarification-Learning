@@ -483,4 +483,144 @@
             "Others"
         ]
     ],
-    "B27-A25-C97-1523575407320
+    "B27-A25-C97-1523575407320": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B44-A36-C98-1523575432575": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello. ready",
+            "Greeting"
+        ],
+        [
+            "<builder> its ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so you want me to build a red cross? same orientation?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> shifted backwards by 1?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ]
+    ],
+    "B27-A25-C101-1523575684618": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yeah we have 20 of each",
+            "Status Update"
+        ],
+        [
+            "<builder> color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> orange on this side?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B27-A25-C99-1523576318491": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> three on allthree?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ]
+    ],
+    "B49-A39-C103-1523765212662": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hey",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> one space?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> one more over?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> thanks",
+            "Others"
+        ]
+    ],
+    "B49-A39-C74-1523765872040": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> salut",
+            "Others"
+        ],
+        [
+            "<builder> k",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> same level?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<
