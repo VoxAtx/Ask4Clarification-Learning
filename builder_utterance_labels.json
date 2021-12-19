@@ -758,4 +758,148 @@
         ],
         [
             "<builder> ready",
-            "Greetin
+            "Greeting"
+        ],
+        [
+            "<builder> on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> more on the left?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool shape",
+            "Others"
+        ],
+        [
+            "<builder> done i think",
+            "Display Understanding"
+        ]
+    ],
+    "B49-A39-C10-1523768489600": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> i thought you said it stands up",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> connected at the top in the same layer?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> done",
+            "Display Understanding"
+        ],
+        [
+            "<builder> its not right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh gotcha",
+            "Display Understanding"
+        ]
+    ],
+    "B49-A39-C106-1523768948389": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yeah",
+            "Others"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ]
+    ],
+    "B49-A39-C79-1523769585238": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> i thought you said it was floating",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok i think",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> orange?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ]
+    ],
+    "B49-A39-C107-1523770013466": [
+        [
+            "<builder> mission has started.",
+ 
