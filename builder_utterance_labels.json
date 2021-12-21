@@ -902,4 +902,138 @@
     "B49-A39-C107-1523770013466": [
         [
             "<builder> mission has started.",
- 
+            "Greeting"
+        ],
+        [
+            "<builder> uh huh",
+            "Others"
+        ],
+        [
+            "<builder> yeah",
+            "Others"
+        ],
+        [
+            "<builder> i didnt even notice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh you said on",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> done",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh yeah",
+            "Display Understanding"
+        ]
+    ],
+    "B37-A23-C103-1523629505941": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi!",
+            "Greeting"
+        ],
+        [
+            "<builder> ok, sounds good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ha no worries",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> the middle of all 3 blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> great!",
+            "Display Understanding"
+        ]
+    ],
+    "B37-A23-C102-1523629957597": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ha ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that, or somewhere else?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ah i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B37-A23-C105-1523630488223": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so it's 7 blocks long?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> the middle row?",
+            "Instructio
