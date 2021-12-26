@@ -1036,4 +1036,132 @@
         ],
         [
             "<builder> the middle row?",
-            "Instructio
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> on top of the red blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> when you say square, is that four blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ]
+    ],
+    "B37-A23-C95-1523631151562": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> haha oh well",
+            "Display Understanding"
+        ],
+        [
+            "<builder> orange on top of red?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> a layer of orange next to the existing orange?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> purple blocks again?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> not sure what you mean by corner",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> weird shape :)",
+            "Others"
+        ]
+    ],
+    "B37-A23-C106-1523631763706": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> in a stack?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> at the top?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> diagonal in which direction?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B37-A23-C100-1523632209802": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> no, i think it's working well",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oops right",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nice! that went smoothly",
+            "Display Understanding"
+        ]
+    ],
+    "B37-A23-C104-1523632889288": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display U
