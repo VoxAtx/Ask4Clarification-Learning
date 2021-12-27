@@ -1301,4 +1301,130 @@
             "Greeting"
         ],
         [
-            "<builder> that was 
+            "<builder> that was fine",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what colors are required?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> vertical or horizantal(flat)",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> egg-cellent",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i'm guessing this is the frame?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> same thing on top?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> do we need to fill that in?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A44-C111-1523650278312": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> let me know when/where to begin",
+            "Greeting"
+        ],
+        [
+            "<builder> all three levels are hallow in the center?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ie i use 8 block per level",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh sorry. are you getting my feed?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so the back 2 blocks or the front 2?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> in the first row with 3 blocks, the 2nd row with 2 blocks or the third row?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> could you rephrase it",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so was that a correct spot?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or the 2 behind the placement i just made",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> correct?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> whoops",
+            "Others"
+        ],
+        [
+            "<builder> okay whats next",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> litttttttttt",
+            "Others"
+        ]
+    ],
+    "B34-A31-C109-1523650510682": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello again",
+            "Greeting"
+        ],
+        [
+            "<builder> fun",
+            "Greeting"
+        ],
