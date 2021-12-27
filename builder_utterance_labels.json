@@ -1164,4 +1164,141 @@
         ],
         [
             "<builder> ok",
-            "Display U
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> are these still orange blocks? because i'm going to run out of orange",
+            "Status Update"
+        ],
+        [
+            "<builder> i think so",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ],
+        [
+            "<builder> sweet",
+            "Display Understanding"
+        ]
+    ],
+    "B37-A23-C107-1523633626568": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yes!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> haha ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> towards the middle?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so that's above the existing columns at the top?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> awesome",
+            "Display Understanding"
+        ]
+    ],
+    "B37-A23-C110-1523634174791": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> whooo",
+            "Others"
+        ],
+        [
+            "<builder> exciting",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yay, nice job!",
+            "Display Understanding"
+        ]
+    ],
+    "B34-A31-C3-1523649983538": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> alright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> do you want to do something like an x-y coordinate system?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B35-A44-C32-1523650068421": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> same",
+            "Greeting"
+        ],
+        [
+            "<builder> sorry",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> relative to my position correct?",
+            "Verification Questions"
+        ]
+    ],
+    "B34-A31-C108-1523650132924": [
+        [
+            "<builder> hello again",
+            "Greeting"
+        ],
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi there again",
+            "Greeting"
+        ],
+        [
+            "<builder> that was 
