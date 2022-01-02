@@ -1428,3 +1428,143 @@
             "<builder> fun",
             "Greeting"
         ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> alright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there",
+            "Status Update"
+        ],
+        [
+            "<builder> do you want me to stand at a different perspective or is this the easiest position?",
+            "Suggestions"
+        ],
+        [
+            "<builder> like a flag",
+            "Others"
+        ],
+        [
+            "<builder> ish",
+            "Others"
+        ]
+    ],
+    "B35-A44-C114-1523650699269": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> im ready",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> any color or still orange?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh so they look superimposed",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> no worries",
+            "Display Understanding"
+        ]
+    ],
+    "B34-A31-C91-1523650839792": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> of course",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ??",
+            "Verification Questions"
+        ],
+        [
+            "<builder> lmk if you want me to move",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this 2d or 3d?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this one face?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> left or right side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> one more layer?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> blue pillar with yellow block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> for the last wall?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh a gate",
+            "Others"
+        ],
+        [
+            "<builder> fancy",
+            "Others"
+        ],
+        [
+            "<builder> alright",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A44-C94-1523650963951": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> im ready",
+            "Greeting"
+        ],
+        [
+            "
