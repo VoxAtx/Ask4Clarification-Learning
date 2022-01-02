@@ -1567,4 +1567,141 @@
             "Greeting"
         ],
         [
-            "
+            "<builder> 3",
+            "Others"
+        ],
+        [
+            "<builder> 1 level tall?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> bottom left or right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this looking like what you want it to?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i dont have enought blocks",
+            "Status Update"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oaky",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay*",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> that it?",
+            "Verification Questions"
+        ]
+    ],
+    "B35-A44-C95-1523651338167": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> no worries",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> if its easier we can build relative to my direction around this block",
+            "Suggestions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> littttttt",
+            "Others"
+        ]
+    ],
+    "B34-A31-C113-1523651402802": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> :)",
+            "Greeting"
+        ],
+        [
+            "<builder> like the block i but it's a number",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> how many digits?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> and what color(s)",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> should i move that?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> shift it?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this is going to be like a hex 2?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that's behind",
+            "Verification
