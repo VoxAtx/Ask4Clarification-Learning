@@ -1704,4 +1704,138 @@
         ],
         [
             "<builder> that's behind",
-            "Verification
+            "Verification Questions"
+        ],
+        [
+            "<builder> gr8",
+            "Display Understanding"
+        ],
+        [
+            "<builder> same height?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> alright. what number is this?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> you good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> just a bunch of colorful numbers",
+            "Others"
+        ]
+    ],
+    "B35-A44-C99-1523651769587": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> i think i'm ready to go pro at this",
+            "Greeting"
+        ],
+        [
+            "<builder> this perspective?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> same design? just blue?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> go team",
+            "Greeting"
+        ]
+    ],
+    "B34-A31-C89-1523652062789": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> alright sure",
+            "Display Understanding"
+        ],
+        [
+            "<builder> one block in is towards me?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so like there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh from a corner. i read center",
+            "Display Understanding"
+        ],
+        [
+            "<builder> just like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> in red?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> perfect",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ;)",
+            "Others"
+        ],
+        [
+            "<builder> i'm going to make it purple so i remember to delete it",
+            "Status Update"
+        ],
+        [
+            "<builder> i'ts hard to find a good perspective for you",
+            "Status Update"
+        ],
+      
