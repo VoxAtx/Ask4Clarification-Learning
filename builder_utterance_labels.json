@@ -1838,4 +1838,144 @@
             "<builder> i'ts hard to find a good perspective for you",
             "Status Update"
         ],
-      
+        [
+            "<builder> *it's",
+            "Status Update"
+        ],
+        [
+            "<builder> is this symmetrical?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ??",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yeah idk",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A44-C92-1523652214354": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yeah i don't follow",
+            "Display Understanding"
+        ],
+        [
+            "<builder> can u rephrase?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ahh",
+            "Others"
+        ]
+    ],
+    "B35-A44-C108-1523652454518": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> is this a block i",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> bet",
+            "Others"
+        ]
+    ],
+    "B35-A44-C109-1523652588144": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> def the hardest 1",
+            "Others"
+        ]
+    ],
+    "B35-A44-C113-1523652699693": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay.",
+            "Display Understanding"
+        ],
+        [
+            "<builder> bottom center?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> lol my bad",
+            "Others"
+        ],
+        [
+            "<builder> directly behind?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so here?",
+            "Verification Questions"
+        ],
+        [
