@@ -2109,4 +2109,140 @@
             "Display Understanding"
         ],
         [
-            "<builder> i think 
+            "<builder> i think we are getting the hang of this",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so do i put one on the left or the right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> neat",
+            "Others"
+        ]
+    ],
+    "B34-A31-C100-1523653650559": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> fun",
+            "Greeting"
+        ],
+        [
+            "<builder> does it look like anything in particular?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> oh my",
+            "Others"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there we go",
+            "Status Update"
+        ],
+        [
+            "<builder> will this form a square?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry",
+            "Others"
+        ],
+        [
+            "<builder> my b",
+            "Others"
+        ],
+        [
+            "<builder> left of the highest green block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> kk",
+            "Others"
+        ],
+        [
+            "<builder> yes? no?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> perfect",
+            "Display Understanding"
+        ],
+        [
+            "<builder> :)",
+            "Others"
+        ]
+    ],
+    "B35-A44-C91-1523653832055": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how many spaces",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sweet",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A44-C89-1523654130378": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> here or 1 back",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry i've been thinking about it as 2 empty spaces. my b",
+            "Display Understanding"
+        ]
+    ],
+    "B34-A31-C98-1523654279329": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how complex?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> is there any oclor we are not using>",
+            "Task-level Questions"
+        ],
+        [
+  
