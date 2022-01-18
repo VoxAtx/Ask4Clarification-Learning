@@ -1979,3 +1979,134 @@
             "Verification Questions"
         ],
         [
+            "<builder> or 1 back",
+            "Verification Questions"
+        ],
+        [
+            "<builder> in yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is it a slanted leg or straight",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> littttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt",
+            "Others"
+        ]
+    ],
+    "B34-A31-C112-1523652785313": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ],
+        [
+            "<builder> in a row like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this is funky",
+            "Others"
+        ],
+        [
+            "<builder> um",
+            "Others"
+        ],
+        [
+            "<builder> snek",
+            "Others"
+        ],
+        [
+            "<builder> is this like a spiral of sorts?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> alright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> do i put one under the yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> two in front now",
+            "Status Update"
+        ],
+        [
+            "<builder> down?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> abstract art",
+            "Others"
+        ],
+        [
+            "<builder> i think we are good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> though i dont really know",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A44-C112-1523653368154": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hype",
+            "Others"
+        ],
+        [
+            "<builder> okay. but starting from this red block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so still going left to right",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> do u want a specific angle?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i see it now",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yeah?",
+            "Verification Questions"
+        ]
+    ],
+    "B34-A31-C93-1523653432956": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i think 
