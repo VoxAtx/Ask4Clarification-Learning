@@ -2245,4 +2245,138 @@
             "Task-level Questions"
         ],
         [
-  
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> very religious",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ??",
+            "Verification Questions"
+        ],
+        [
+            "<builder> exactly the same?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> on which side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> what color are the ear things?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ]
+    ],
+    "B52-A27-C3-1523659176661": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> rad! seems fun, easy way to earn some amazon bucks",
+            "Others"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ]
+    ],
+    "B52-A27-C104-1523659334243": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> want me to set something down for reference?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> easy enough",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nice arch",
+            "Display Understanding"
+        ],
+        [
+            "<builder> any more?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> oh, got you",
+            "Display Understanding"
+        ],
+        [
+            "<builder> horizontal?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i'm not sure i follow",
+            "Display Understanding"
+        ],
+        [
+            "<builder> on the side of what red?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh i got you",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry i am thinking in two dimensions",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yeah?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this your first time?",
+            "Others"
+        ],
+        [
+            "<builder> three high? or like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B16-A1-C96-1523659861119": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi again!",
+            "Greeting"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh, w
