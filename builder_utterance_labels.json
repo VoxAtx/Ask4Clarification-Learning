@@ -2379,4 +2379,144 @@
             "Display Understanding"
         ],
         [
-            "<builder> oh, w
+            "<builder> oh, wwo, sorry!",
+            "Others"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> great! is it that the end? if you, you can quit if you'd like",
+            "Others"
+        ]
+    ],
+    "B52-A27-C103-1523660020610": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> whoops! i got in trouble",
+            "Display Understanding"
+        ],
+        [
+            "<builder> crude",
+            "Others"
+        ],
+        [
+            "<builder> 3x3 like what we started with?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> think i got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i think it is",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> hot or cold?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this what you mean?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yay!",
+            "Others"
+        ]
+    ],
+    "B16-A1-C102-1523660203486": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay, cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh, okay!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> also yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ]
+    ],
+    "B52-A27-C53-1523660483558": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> where should we start?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> also with a hole?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cozy",
+            "Others"
+        ],
+        [
+            "<builder> no biggie",
+            "Others"
+        ],
+        [
+            "<builder> :)",
+            "Others"
+        ]
+    ],
+    "B52-A27-C49-1523660730846": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like, resting on the 4th space?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> from the edge?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> right from which angle",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> my current right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i think",
+            "Display Understanding"
+        ],
+        [
+           
