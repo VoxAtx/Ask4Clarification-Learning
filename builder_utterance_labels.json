@@ -2519,4 +2519,141 @@
             "Display Understanding"
         ],
         [
-           
+            "<builder> all purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> perpendicular to the current thing?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> thanks",
+            "Others"
+        ],
+        [
+            "<builder> did i guess it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i can undo",
+            "Status Update"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ],
+        [
+            "<builder> parallel to the blue wall?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like an a",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> is it the same shape as the purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yeah?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cute, a, b, c, d",
+            "Display Understanding"
+        ]
+    ],
+    "B16-A1-C41-1523660865222": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi again!",
+            "Greeting"
+        ],
+        [
+            "<builder> okay, cool!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> where do i place it with respect to the length of l?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ]
+    ],
+    "B16-A1-C105-1523661152828": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> alright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> both?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ]
+    ],
+    "B52-A27-C44-1523661370022": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> 3 high or wide?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> in the future we can call these donuts or something",
+            "Suggestions"
+        ],
+        [
+            "<builder> 4x3 donut",
+            "Suggestions"
+        ],
+        [
+            "<builder> like, one hanging over?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> no, like this",
+            "Status Update"
+        ],
+        [
+            "<builder> two out",
+            "Status Update"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+  
