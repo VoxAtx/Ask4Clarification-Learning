@@ -2794,4 +2794,140 @@
             "<builder> *!",
             "Others"
         ],
-    
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ]
+    ],
+    "B52-A27-C102-1523662795472": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> this must be the last one",
+            "Others"
+        ],
+        [
+            "<builder> alright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry i keep moving",
+            "Others"
+        ],
+        [
+            "<builder> is this right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> repeat on other side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> hot or cold?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> the first we placed/",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> thanks :)",
+            "Others"
+        ],
+        [
+            "<builder> you're doing great",
+            "Display Understanding"
+        ],
+        [
+            "<builder> four across?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like, parallel to the yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> what do you mean 5 to hang off",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> whoo",
+            "Others"
+        ]
+    ],
+    "B16-A1-C114-1523663178897": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi again!",
+            "Greeting"
+        ],
+        [
+            "<builder> okay, fun",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ]
+    ],
+    "B52-A27-C105-1523663458446": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ],
+        [
+            "<builder> this, or one higher?",
+            "Instruction-level
