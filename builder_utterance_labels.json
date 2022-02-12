@@ -2656,4 +2656,142 @@
             "<builder> like this?",
             "Verification Questions"
         ],
-  
+        [
+            "<builder> toward the green?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i like this one",
+            "Others"
+        ],
+        [
+            "<builder> oh, sorry, misunderstood",
+            "Others"
+        ],
+        [
+            "<builder> haha",
+            "Others"
+        ],
+        [
+            "<builder> nice nice",
+            "Display Understanding"
+        ]
+    ],
+    "B16-A1-C106-1523661697475": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> cute!",
+            "Others"
+        ],
+        [
+            "<builder> okay cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ahh okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> and this one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> weird, okay!",
+            "Display Understanding"
+        ]
+    ],
+    "B52-A27-C48-1523661970517": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> lead the way boss",
+            "Greeting"
+        ],
+        [
+            "<builder> take your time",
+            "Greeting"
+        ],
+        [
+            "<builder> wow, tall",
+            "Others"
+        ],
+        [
+            "<builder> is the face the same direction as the l on teh bottom",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that's fun!",
+            "Others"
+        ],
+        [
+            "<builder> yay or nay?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> lol, just the red parts sticking out?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i think i fixed it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> connect the reds like a matt?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> all sides?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is it gonna rain?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> sweet",
+            "Display Understanding"
+        ]
+    ],
+    "B16-A1-C107-1523662556468": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi!",
+            "Greeting"
+        ],
+        [
+            "<builder> sorry about that~",
+            "Others"
+        ],
+        [
+            "<builder> *!",
+            "Others"
+        ],
+    
