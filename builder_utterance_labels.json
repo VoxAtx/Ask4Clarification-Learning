@@ -2930,4 +2930,151 @@
         ],
         [
             "<builder> this, or one higher?",
-            "Instruction-level
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> just one across",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or up and down too?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> a donut?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> booyah",
+            "Others"
+        ]
+    ],
+    "B20-A10-C17-1522939291290": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready when you are",
+            "Greeting"
+        ],
+        [
+            "<builder> bigger?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that it?",
+            "Verification Questions"
+        ]
+    ],
+    "B12-A26-C3-1522939293524": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B12-A26-C34-1522939450817": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> likethat?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B20-A10-C42-1522939494339": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how big is this?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> colour?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ]
+    ],
+    "B12-A26-C40-1522939655941": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ]
+    ],
+    "B12-A26-C9-1522939843093": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> filled in?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B20-A10-C43-1522940025842": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> on top of both?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+   
