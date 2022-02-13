@@ -3077,4 +3077,138 @@
         [
             "<builder> like this?",
             "Verification Questions"
-   
+        ],
+        [
+            "<builder> are we making a tree?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> the closest i have to that is the yellow i put down",
+            "Status Update"
+        ],
+        [
+            "<builder> alrighty",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B12-A26-C10-1522940187640": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> pyramid?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> which layer?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> thusly?",
+            "Verification Questions"
+        ]
+    ],
+    "B20-A10-C2-1522940361401": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> colour?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> alrighty",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what's the difference?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> wait this or something else?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B12-A26-C11-1522940682033": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> no problem",
+            "Display Understanding"
+        ],
+        [
+            "<builder> red?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> what is a blackspace?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> will orange do?",
+            "Suggestions"
+        ],
+        [
+            "<builder> i have no brown",
+            "Status Update"
+        ],
+        [
+            "<builder> what else?",
+            "Task-level Questions"
+        ]
+    ],
+    "B20-A10-C5-1522940932269": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how much space do i need to leave on the wh
