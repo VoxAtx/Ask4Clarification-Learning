@@ -3211,4 +3211,142 @@
             "Greeting"
         ],
         [
-            "<builder> how much space do i need to leave on the wh
+            "<builder> how much space do i need to leave on the whole grid",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> on top and in the middle?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ],
+        [
+            "<builder> that it?",
+            "Verification Questions"
+        ]
+    ],
+    "B12-A26-C12-1522941391204": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> no more l's?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B20-A10-C6-1522941513644": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> im just marking for myself",
+            "Status Update"
+        ],
+        [
+            "<builder> tok",
+            "Others"
+        ],
+        [
+            "<builder> ah okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> where do i put it?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> fill in the rest? or is it a ring?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B12-A26-C42-1522941761985": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B12-A26-C2-1522942074039": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> i am not sure what you mean",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> make it into an octogon?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B12-A26-C5-1522942414410": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B20-A10-C7-1522942426640": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> will there be enough room?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> up one? or there?",
+            "Verification Questions"
+        ]
+    ],
+    "B12-A26-C6-1522942690396": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> green blue purple green maybe?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> do you know the color of the obscured blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> rotate how?",
+            "Instruction-level Questions"
+        ],
+        [
+         
