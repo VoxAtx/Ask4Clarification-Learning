@@ -3349,4 +3349,146 @@
             "Instruction-level Questions"
         ],
         [
-         
+            "<builder> touch the green rectangle four times?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B20-A10-C15-1522942941805": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> his?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this*",
+            "Verification Questions"
+        ],
+        [
+            "<builder> starting here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> now what from here?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> no the right?",
+            "Verification Questions"
+        ]
+    ],
+    "B12-A26-C7-1522943263017": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> color?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B38-A28-C3-1522944356417": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ]
+    ],
+    "B16-A41-C3-1522944359457": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello?",
+            "Greeting"
+        ],
+        [
+            "<builder> hi!",
+            "Greeting"
+        ],
+        [
+            "<builder> okay!",
+            "Display Understanding"
+        ]
+    ],
+    "B38-A28-C45-1522944467345": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> so what do we do?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so what do we do?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> sorry, the block swutches to whitchever one we removed",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok, whats next?",
+            "Task-level Questions"
+        ]
+    ],
+    "B16-A41-C47-1522944514490": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi again!",
+            "Greeting"
+        ]
+    ],
+    "B38-A28-C46-1522944686754": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> o
