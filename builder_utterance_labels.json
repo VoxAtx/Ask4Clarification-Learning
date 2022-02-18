@@ -3491,4 +3491,141 @@
             "Display Understanding"
         ],
         [
-            "<builder> o
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B16-A41-C58-1522944764224": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> here? the outlined area?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> sorry, that took a minute!",
+            "Others"
+        ],
+        [
+            "<builder> i can't? it doesn't seem like there is anymore blue. do i remove a portion already built?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that was rough, sorry",
+            "Others"
+        ]
+    ],
+    "B38-A28-C18-1522945320714": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> did you get the technical issues fixed on your end?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok, is around here god?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> good*",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry about that",
+            "Others"
+        ],
+        [
+            "<builder> like a plus?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> are we repeating the pattern?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> again with purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> sorry",
+            "Others"
+        ],
+        [
+            "<builder> ok,",
+            "Display Understanding"
+        ],
+        [
+            "<builder> to the side or above?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is it another +",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> are we goint to repeat this pattern?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> how many blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that it?",
+            "Verification Questions"
+        ]
+    ],
+    "B16-A41-C24-1522945785686": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+       
