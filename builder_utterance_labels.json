@@ -3758,3 +3758,136 @@
             "<builder> should people be able to walk up the stairs?",
             "Task-level Questions"
         ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> turrah",
+            "Others"
+        ]
+    ],
+    "B38-A28-C21-1522946417871": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> heo",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> how much space do we need?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> a corner or any edge?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so the left corner?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> right there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> in which direction?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> should i keep the block below it?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or on the same level?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ah, ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i connect them?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok...",
+            "Display Understanding"
+        ],
+        [
+            "<builder> pillar again?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like stairs?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok, should it look like a triangle?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> on the sides or in the middle?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> which holes?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> filling in the spaces we seperated?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i ran out of purple blocks, did i miss something?",
+            "Status Update"
+        ],
+        [
+            "<builder> was that the two in the center?",
+            "Instruction-le
