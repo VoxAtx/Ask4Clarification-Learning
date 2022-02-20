@@ -3628,4 +3628,133 @@
             "<builder> mission has started.",
             "Greeting"
         ],
-       
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this or above?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ]
+    ],
+    "B38-A28-C19-1522945842080": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> around here",
+            "Verification Questions"
+        ],
+        [
+            "<builder> towards me or parallel",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> how many steps?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i ean out of blocks",
+            "Status Update"
+        ],
+        [
+            "<builder> should i use a different collor?",
+            "Suggestions"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> are you sure we are going to have enough space?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like a platform?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> should i make a second pillar?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok, whats next?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> this side?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what hole? the space between the pillars?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> should the first one be there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> should i repeat that?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> more pillars?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i connect them?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should people be able to walk up the stairs?",
+            "Task-level Questions"
+        ],
