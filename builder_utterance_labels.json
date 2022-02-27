@@ -3890,4 +3890,140 @@
         ],
         [
             "<builder> was that the two in the center?",
-            "Instruction-le
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what's next?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> should i do both?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok,",
+            "Display Understanding"
+        ]
+    ],
+    "B16-A41-C31-1522946488538": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> the entire h is floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> also color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay-- sorry!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this hopefully?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> nice! it's alright!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ]
+    ],
+    "B38-A28-C23-1522947094778": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> heyo",
+            "Others"
+        ],
+        [
+            "<builder> should i go to a corner?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sounds like a doozy",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> you know i always start with 20 of each block, right?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> another?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> do i repeat this with another color?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> in a line away from me horizontally or on top of the purple blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> straight away from me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> whats next?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Unde
