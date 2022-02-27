@@ -4155,4 +4155,132 @@
             "Others"
         ],
         [
-            "<buil
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this middle yellow row as well or just the two extra rows?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh should i have kept the green on the bottom?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> where i placed the new blue?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is the rectangle still 2 x 3?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so the top row is 4 blocks long?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ]
+    ],
+    "B38-A28-C47-1522948022670": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> heyo",
+            "Others"
+        ],
+        [
+            "<builder> ooh",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yup, you know i have them already, right",
+            "Greeting"
+        ],
+        [
+            "<builder> ?",
+            "Greeting"
+        ],
+        [
+            "<builder> oh, lol",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ah, ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> up another level?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ohm wow",
+            "Others"
+        ]
+    ],
+    "B38-A28-C24-1522948212262": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> this looks center-ish, right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yyp",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool, which colors?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nifty, anything else?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> should there be a red ring below that?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there are two rings in the center?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or from both ring
