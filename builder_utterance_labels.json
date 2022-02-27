@@ -4283,4 +4283,135 @@
             "Instruction-level Questions"
         ],
         [
-            "<builder> or from both ring
+            "<builder> or from both rings?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> sorry, i was asking if the two blocks extend from the yellow rings",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh wait,",
+            "Verification Questions"
+        ],
+        [
+            "<builder> my bad, i misread that",
+            "Others"
+        ],
+        [
+            "<builder> any more up?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> sorry",
+            "Others"
+        ],
+        [
+            "<builder> cool, its a mug",
+            "Display Understanding"
+        ]
+    ],
+    "B38-A28-C31-1522948589166": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> heyo",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> all the way in the corner",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ooh, what are we building?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> how far above the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> wait... is it cwc?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> how tall is the h?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok...",
+            "Display Understanding"
+        ],
+        [
+            "<builder> 3 across, right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i repeat the left side?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> the o now?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> what color should i use?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> right here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is it a punched out cross?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is it a ring?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should we do a t in the same way?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> is it following the same spacing as the other letters?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> cool, and just a row on the top to finish the t?",
+            "Instruction-level Ques
