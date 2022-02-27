@@ -4026,4 +4026,133 @@
         ],
         [
             "<builder> ok",
-            "Display Unde
+            "Display Understanding"
+        ],
+        [
+            "<builder> are we repeating the pattern with orange and yellow?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> is this right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> sorry",
+            "Others"
+        ],
+        [
+            "<builder> wait, this isn't the side i started on.",
+            "Status Update"
+        ],
+        [
+            "<builder> sorry",
+            "Others"
+        ],
+        [
+            "<builder> ok, what's next?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> they are only one off of the ground? should everything be one block higher?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> two blocks higher for each or just one block on each?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so it looks like an a sort of",
+            "Display Understanding"
+        ],
+        [
+            "<builder> are we repeating the structure?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok/",
+            "Display Understanding"
+        ],
+        [
+            "<builder> right or left?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> both sides or just this one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> in the middle?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> will that repeat until we hit the ground?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> connecting them?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> are we going to repeat what we did on the other side?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> anything else?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> cool, it looks like a bridge",
+            "Others"
+        ]
+    ],
+    "B16-A41-C36-1522947271393": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh! sorry",
+            "Others"
+        ],
+        [
+            "<buil
