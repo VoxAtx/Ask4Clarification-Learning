@@ -4542,4 +4542,138 @@
         ],
         [
             "<builder> should i start them below where i am now, overhanging the blue structure?",
-            "Instruction-level Quest
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> another grid of nine attached to the existing yellow grid?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i'm missing another yellow block...",
+            "Status Update"
+        ],
+        [
+            "<builder> here on the same side with the yellow blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> no worries",
+            "Display Understanding"
+        ]
+    ],
+    "B15-A27-C37-1522969243496": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> purple there or on the other side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> sick",
+            "Others"
+        ]
+    ],
+    "B15-A27-C41-1522969861622": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> all good!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> on that yellow block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is the purple or blue one in the right place?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that, or above it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> got it!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool!",
+            "Others"
+        ]
+    ],
+    "B13-A30-C53-1522970675355": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok, no worries",
+            "Di
