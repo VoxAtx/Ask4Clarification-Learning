@@ -4414,4 +4414,132 @@
         ],
         [
             "<builder> cool, and just a row on the top to finish the t?",
-            "Instruction-level Ques
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> do you want to double check?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> the t might be oneoff",
+            "Suggestions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool, it was nice working with you",
+            "Others"
+        ],
+        [
+            "<builder> :)",
+            "Others"
+        ]
+    ],
+    "B13-A30-C3-1522967809907": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B15-A27-C17-1522967873821": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay! i'm ready",
+            "Greeting"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool!",
+            "Others"
+        ]
+    ],
+    "B15-A27-C64-1522968427200": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> start the same structure as before?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool!",
+            "Others"
+        ]
+    ],
+    "B13-A30-C28-1522968542285": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> does it matter if i place them near a corner?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> two spaces between my current two purple blocks and the new ones i'm about to place?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> the two squares should be on top of each other?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B15-A27-C77-1522968772777": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how long should the line be?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that, or one shorter?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> one more?",
+            "Task-level Questions"
+        ]
+    ],
+    "B13-A30-C44-1522969231926": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> that's ok.",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i start them below where i am now, overhanging the blue structure?",
+            "Instruction-level Quest
