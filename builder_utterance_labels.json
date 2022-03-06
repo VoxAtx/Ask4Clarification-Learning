@@ -4676,4 +4676,119 @@
         ],
         [
             "<builder> ok, no worries",
-            "Di
+            "Display Understanding"
+        ],
+        [
+            "<builder> like so, with another row atop this one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> certainly.",
+            "Display Understanding"
+        ],
+        [
+            "<builder> a vertical cube? good.",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so, just build the same structure with orange blocks in between these two?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> sounds good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i just forgot. haha, am i on the purple side right now?",
+            "Task-level Questions"
+        ]
+    ],
+    "B15-A27-C50-1522970698566": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> there, or one higher?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that but without the red?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is it another x shape?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so in this area?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> but off the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how mans spaces off the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> many*",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> starting there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this direction, or towards the red?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this the base of the x?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool!",
+            "Others"
+        ]
+    ],
+    "B13-A30-C54-1522971350327": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok, tell me if this is right...",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so far we've built an l, a large duck, a funky staircase, and a cube shaped house. how would you describe the end goal of this build?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> cool, that might help, maybe...haha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> diagonal staircase with this orientation?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is it also three spaces out from the yellow bloc
