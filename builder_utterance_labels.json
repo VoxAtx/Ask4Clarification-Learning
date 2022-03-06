@@ -4791,4 +4791,138 @@
             "Instruction-level Questions"
         ],
         [
-            "<builder> is it also three spaces out from the yellow bloc
+            "<builder> is it also three spaces out from the yellow blocks?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B15-A27-C52-1522971732942": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this side or the other side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B23-A29-C3-1522766721058": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> lets first lay some bricks for a grid system.",
+            "Greeting"
+        ],
+        [
+            "<builder> how about we set this up like a cartesian plane and you just give me (x,y)",
+            "Suggestions"
+        ],
+        [
+            "<builder> purple is the origin",
+            "Status Update"
+        ],
+        [
+            "<builder> green is x",
+            "Status Update"
+        ],
+        [
+            "<builder> yellow is y",
+            "Status Update"
+        ],
+        [
+            "<builder> lets do this!",
+            "Greeting"
+        ]
+    ],
+    "B4-A20-C3-1522766869746": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> above the board or along it?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> hooray",
+            "Others"
+        ]
+    ],
+    "B4-A20-C34-1522766997770": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> 90 degrees to the first line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yep",
+            "Others"
+        ],
+        [
+            "<builder> three blank spaces or two blank spaces?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i don't know where to put the red blocks",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> just hte l shape again?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> sweet",
+            "Display Understanding"
+        ]
+    ],
+    "B4-A20-C40-1522767438166": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B23-A29-C3
