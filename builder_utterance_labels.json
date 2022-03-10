@@ -4925,4 +4925,137 @@
             "Display Understanding"
         ]
     ],
-    "B23-A29-C3
+    "B23-A29-C30-1522767512742": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry talking to aid",
+            "Others"
+        ],
+        [
+            "<builder> lets do this",
+            "Greeting"
+        ],
+        [
+            "<builder> north or east?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> red for reference",
+            "Status Update"
+        ],
+        [
+            "<builder> where?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i wil stay right over the blocks if needed. left right work for me too",
+            "Status Update"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ]
+    ],
+    "B4-A20-C41-1522767672579": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how's that?",
+            "Verification Questions"
+        ]
+    ],
+    "B4-A20-C50-1522768148743": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good description",
+            "Display Understanding"
+        ],
+        [
+            "<builder> how close to the purple structure?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> which yellow block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i'll place one and you can tell me how to shift it",
+            "Suggestions"
+        ],
+        [
+            "<builder> these shapes are f-ed up",
+            "Status Update"
+        ],
+        [
+            "<builder> yah",
+            "Others"
+        ],
+        [
+            "<builder> two blocks over from what?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ran out of greens",
+            "Status Update"
+        ],
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> looking down?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> lol the only one i don't have placed",
+            "Status Update"
+        ],
+        [
+            "<builder> phew",
+            "Others"
+        ]
+    ],
+    "B23-A29-C24-1522768231164": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready?",
+            "Greeting"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> understood",
+          
