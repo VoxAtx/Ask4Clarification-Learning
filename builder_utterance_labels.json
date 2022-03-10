@@ -5058,4 +5058,145 @@
         ],
         [
             "<builder> understood",
-          
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color handle",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B23-A29-C155-1522768671592": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> lets do this",
+            "Greeting"
+        ],
+        [
+            "<builder> don't worry about minor typos i get what youre going for",
+            "Suggestions"
+        ],
+        [
+            "<builder> how many blocks wide",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> thats alright what do i need to fix",
+            "Status Update"
+        ],
+        [
+            "<builder> this doesn't count towards our gpa :)",
+            "Others"
+        ],
+        [
+            "<builder> which line",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> hit me",
+            "Others"
+        ],
+        [
+            "<builder> which orange block",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i only have four orange blocks left",
+            "Status Update"
+        ]
+    ],
+    "B4-A20-C52-1522769444200": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> you can have two",
+            "Others"
+        ],
+        [
+            "<builder> got it. color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> green again?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yep",
+            "Others"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ],
+        [
+            "<builder> good lol",
+            "Display Understanding"
+        ],
+        [
+            "<builder> :)",
+            "Others"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B4-A20-C53-1522770353289": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B1-A4-C28-1522771744116": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> same place?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> the whole edge?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> towards me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> same on the other side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this it?",
+            "Verification Questions"
+        ]
+    ],
+    "B1-A4-C42-1522772175511": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+       
