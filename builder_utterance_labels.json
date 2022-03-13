@@ -5340,4 +5340,139 @@
         ],
         [
             "<builder> is here good?",
-  
+            "Verification Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A4-C54-1522773776201": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> in the middle of the building area?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh wait",
+            "Others"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> to my left?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> towards the orange?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i mean yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i see",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A4-C156-1522774417770": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> anywhere is fine?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> done",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay. what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> still blue?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> how big?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> 7?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> are the tops alig
