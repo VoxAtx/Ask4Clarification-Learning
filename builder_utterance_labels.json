@@ -5475,4 +5475,141 @@
             "Instruction-level Questions"
         ],
         [
-            "<builder> are the tops alig
+            "<builder> are the tops aligned?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> by how much?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> wait so the 7th block was the start right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so that should be okay?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this okay?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> where should i stand?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> it might be easier to connect the stuctures from before?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A4-C43-1522775315173": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> are those the shoes?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> on top?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> one more?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> awesome",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A4-C55-1522775580387": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like a c?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> extended?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> the first step is yellow right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is it a bridge?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> above the red?",
+            "In
