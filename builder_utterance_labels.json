@@ -5199,4 +5199,145 @@
             "Greeting"
         ],
         [
-       
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> anywhere is fine?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> a tower?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what do you mean?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> oh let me try",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh is it going to be similar to the blue",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> except the opposite orange?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B1-A4-C36-1522772574085": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is here fine?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> the same looking tower thing?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> still blue?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A4-C37-1522773058751": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is that 5 or an s",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> thats an s",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> is that okay?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so longer?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> go it",
+            "Status Update"
+        ],
+        [
+            "<builder> is here good?",
+  
