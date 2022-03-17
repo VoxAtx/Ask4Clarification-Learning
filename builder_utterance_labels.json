@@ -5612,4 +5612,143 @@
         ],
         [
             "<builder> above the red?",
-            "In
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A4-C45-1522776326240": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> flat?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> delete?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like before?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ]
+    ],
+    "B11-A7-C46-1522854350889": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> then yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> great. what's next?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> if red is (0,0) and orange is (1,1), what is blue?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ywa",
+            "Others"
+        ],
+        [
+            "<builder> yes",
+            "Display Understanding"
+        ],
+        [
+            "<builder> it's one unit to my right from the diagonal",
+            "Status Update"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool!",
+            "Others"
+        ]
+    ],
+    "B11-A7-C47-1522854931177": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> will i remove the first 3 red?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> really?",
+            "Verification Questions"
+        ]
+    ],
+    "B11-A7-C65-1522855189755": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok. one color?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this a hand?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> or head?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok. similar foot?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
