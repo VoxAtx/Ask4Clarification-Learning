@@ -5752,3 +5752,131 @@
         ],
         [
             "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok. another foot on the other side?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> k",
+            "Others"
+        ],
+        [
+            "<builder> arms?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> my left?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> tricky",
+            "Others"
+        ],
+        [
+            "<builder> oh, on same level",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B11-A7-C69-1522855627706": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok. so four legs/wheels?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok. sticking out one on each side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> filled in?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> thanks",
+            "Others"
+        ],
+        [
+            "<builder> that lays flat?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> filled in?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i'll assume all polygons are filled in from now on",
+            "Status Update"
+        ],
+        [
+            "<builder> i'm out of red blocks",
+            "Status Update"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok, did i clean it up correctly?",
+            "Verification Questions"
+        ]
+    ],
+    "B11-A7-C70-1522856162986": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok. maybe back to coordinates?",
+            "Suggestions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> does the whole thing stay on the ground/",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i'll face the same way as much as possible so relative directions work well",
+            "Status Update"
+        ],
+        [
+            "<builder> that's my last yellow",
+            "Status Update"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> ok.",
+            "Display Understanding"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ],
+        [
+            "<builder> feel free to give more than one direction at a time if you're comfortable",
+            "Suggestions"
+        ],
+        [
+            "<builder> e.g. one right, t
