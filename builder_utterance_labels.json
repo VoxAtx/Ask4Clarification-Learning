@@ -5879,4 +5879,133 @@
             "Suggestions"
         ],
         [
-            "<builder> e.g. one right, t
+            "<builder> e.g. one right, then one up",
+            "Suggestions"
+        ],
+        [
+            "<builder> sounds good",
+            "Display Understanding"
+        ]
+    ],
+    "B11-A7-C157-1522857006209": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok, thanks",
+            "Others"
+        ],
+        [
+            "<builder> so all on one horizontal plane, but floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok.",
+            "Display Understanding"
+        ],
+        [
+            "<builder> how many cells up?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> great. should we maybe build the others on this \"floor\" next?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok, that should be it. everything's on the third level now",
+            "Status Update"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> also orange?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B11-A7-C58-1522857893533": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> south side",
+            "Status Update"
+        ]
+    ],
+    "B11-A7-C73-1522858191853": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok. is it standing up then?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> what color is each symbol?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> directly touching the x?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how many spaces is base from =?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> on right side?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B11-A7-C64-1522858581349": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok, no worries.",
+            "Display Understanding"
+        ]
+    ],
+    "B11-A7-C77-1522858834557": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> knew what you meant",
+            "Display Understanding"
+        ]
+    ],
+    "B29-A8-C17-1522860199086": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> up?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B29-A8-C4-1522860364994": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B29-A8-C8-1522860695010": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> above?",
+        
