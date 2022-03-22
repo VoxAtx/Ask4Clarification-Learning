@@ -6008,4 +6008,149 @@
         ],
         [
             "<builder> above?",
-        
+            "Instruction-level Questions"
+        ]
+    ],
+    "B29-A8-C74-1522860898922": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> orange?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> my right as i stand?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> shift the whole thing two spaces to the right as i stand?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> orange and green blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> remind me please i can't believe i forgot...",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> anjali took some cycles",
+            "Others"
+        ]
+    ],
+    "B29-A8-C75-1522861975747": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B29-A8-C76-1522862288898": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B29-A8-C78-1522862991223": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> over?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B29-A8-C14-1522863579292": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B29-A8-C1-1522863856364": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B21-A15-C3-1522881214767": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello!",
+            "Greeting"
+        ],
+        [
+            "<builder> yes",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> any color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ]
+    ],
+    "B21-A15-C14-1522881524871": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> we are good to go",
+            "Display Understanding"
+        ],
+        [
+            "<builder> solid!",
+            "Others"
+        ]
+    ],
+    "B21-A15-C22-1522881735199": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ye",
+            "Others"
+        ],
+        [
+            "<builder> is there good",
+            "Verification Questions"
+        ],
+        [
+            "<builder> :)",
+            "Others"
+        ]
+    ],
+    "B4-A19-C17-1522881920236": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> what's our mission?",
+            "Task-level Questions"
+        ]
+    ],
+    "B21-A15-C44-1522882153029": [
+        [
+            "<builder
