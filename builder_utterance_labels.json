@@ -6153,4 +6153,145 @@
     ],
     "B21-A15-C44-1522882153029": [
         [
-            "<builder
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool!",
+            "Others"
+        ]
+    ],
+    "B4-A19-C4-1522882189483": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> np",
+            "Display Understanding"
+        ],
+        [
+            "<builder> above the original line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is it a flower?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B4-A19-C8-1522882559576": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> easy",
+            "Display Understanding"
+        ]
+    ],
+    "B4-A19-C7-1522882673164": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> stacked vertically?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> are some of them floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ]
+    ],
+    "B21-A15-C66-1522882961544": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> good to go",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that close enought",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> on top?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is that good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> solid",
+            "Others"
+        ],
+        [
+            "<builder> aight",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okie dokie",
+            "Displa
