@@ -6294,4 +6294,129 @@
         ],
         [
             "<builder> okie dokie",
-            "Displa
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that good",
+            "Verification Questions"
+        ],
+        [
+            "<builder> no problemo",
+            "Display Understanding"
+        ]
+    ],
+    "B4-A19-C10-1522883113537": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> center of which row?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> on top of the other purples?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so connecting the purple and yellow diagonally?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> of which row?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay how many?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B4-A19-C21-1522883588233": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> you could just say a line too",
+            "Suggestions"
+        ],
+        [
+            "<builder> as in two spaces with one blank space or two blank spaces?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh another line of three",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> a floating line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> behind the purple structure",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> jutting out from the upper corner purple one",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> both sides?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B21-A15-C71-1522883831670": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ye",
+            "Others"
+        ],
+        [
+            "<builder> where's the starting point for the row",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> on top of the yellow blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> sweet!",
+            "Display Understanding"
+        ]
+    ],
+    "B4-A19-C31-1522884235745": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there's only one blank space underneath?",
+            "Instruction-level Questions"
+        ]
