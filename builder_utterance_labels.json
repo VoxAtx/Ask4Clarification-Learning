@@ -6419,4 +6419,143 @@
         [
             "<builder> there's only one blank space underneath?",
             "Instruction-level Questions"
+        ],
+        [
+            "<builder> behind it from where i'm facing?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> one blank row?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
         ]
+    ],
+    "B21-A15-C74-1522884356798": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yee",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there or one more forward?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> sweet",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yeah no prob",
+            "Display Understanding"
+        ],
+        [
+            "<builder> o",
+            "Display Understanding"
+        ]
+    ],
+    "B4-A19-C30-1522884961579": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> continuing the line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> horizontal or vertical?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> other side of what?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ]
+    ],
+    "B21-A15-C28-1522884965167": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yee",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this a camel",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> strange camel",
+            "Others"
+        ]
+    ],
+    "B21-A15-C76-1522885309277": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ye",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yeah",
+            "Others"
+        ],
+        [
+            "<builder> there?",
+    
