@@ -6687,4 +6687,133 @@
         [
             "<builder> like this?",
             "Verification Questions"
-  
+        ],
+        [
+            "<builder> like a cactus?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> its a flower!",
+            "Others"
+        ],
+        [
+            "<builder> good job!",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A3-C8-1522432497234": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello. what are we building this time?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> can i put them anywhere?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> its a table?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good job",
+            "Others"
+        ]
+    ],
+    "B1-A3-C5-1522432776975": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello. whats our mission this time?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> describe the structure?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> can i build anywhere?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> these ones?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so parallel?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or perpendicular?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is it connected?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh so its on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this the arm of the window?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> on the back or other side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> you did a good job!",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A3-C6-1522433587517": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> take your time. just give me instructions when you are ready.",
+            "Greetin
