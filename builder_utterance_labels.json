@@ -6558,4 +6558,133 @@
         ],
         [
             "<builder> there?",
-    
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> in that direction?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> work of art",
+            "Others"
+        ]
+    ],
+    "B4-A19-C75-1522885325283": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> but still aligned with blue?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> on top of the yellow or with a space btw?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B4-A19-C76-1522885674536": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> towards which direction?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> with red or their own colors?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there are diagonal. which direction should they point?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how many>",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> phew",
+            "Others"
+        ]
+    ],
+    "B1-A3-C3-1522431780184": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> yes",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is the structure extending upwards?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is that good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good job!",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A3-C4-1522432009099": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so on the middle blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+  
