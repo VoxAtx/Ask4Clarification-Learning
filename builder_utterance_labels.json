@@ -6943,4 +6943,134 @@
         [
             "<builder> okay",
             "Display Understanding"
-    
+        ],
+        [
+            "<builder> purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i am out of blocks",
+            "Status Update"
+        ],
+        [
+            "<builder> yes",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is the purple supposed to be on the third level?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i think i could make it float..",
+            "Status Update"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> let me try it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i only have 20 blocks of each color. i used them up. okay i will remove some",
+            "Status Update"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> the purple ones?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> all of the first red layer?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good job!",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A3-C1-1522435497386": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello. what are we building this time?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> on top the 8th block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> starting and ending from the red and green?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> orange?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh i see. my mistake",
+            "Display Understanding"
+        ],
+        [
+            "<builder> good job!",
+            "Display Understanding"
+        ]
+    ],
+    "B3-A2-C17-1522444542447": [
+        [
+           
