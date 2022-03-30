@@ -6816,4 +6816,131 @@
         ],
         [
             "<builder> take your time. just give me instructions when you are ready.",
-            "Greetin
+            "Greeting"
+        ],
+        [
+            "<builder> start here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> a c?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> so the orientation is correct?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what do you mean shifted to the left?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> go it",
+            "Status Update"
+        ],
+        [
+            "<builder> so re move the other 2 blue blocks at the end?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> they are connected and all look the same right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay. here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> let me try",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is the orientation correct?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so flat?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> extending like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is that it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> it might have been easier to describe the two windows first",
+            "Suggestions"
+        ],
+        [
+            "<builder> that are perpendicular",
+            "Suggestions"
+        ],
+        [
+            "<builder> then the interlocking one..",
+            "Suggestions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> good job",
+            "Others"
+        ]
+    ],
+    "B1-A3-C2-1522434666266": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello. what are we building this time?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> flat on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> anywhere?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> go it",
+            "Status Update"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> can you give me an instruction for a single purple block first?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+    
