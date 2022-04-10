@@ -7208,4 +7208,137 @@
         ],
         [
             "<builder> cool",
-          
+            "Display Understanding"
+        ],
+        [
+            "<builder> thank you architect",
+            "Others"
+        ]
+    ],
+    "B3-A2-C12-1522445699382": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello architect",
+            "Greeting"
+        ],
+        [
+            "<builder> i am ready architect, please show me the way",
+            "Greeting"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so they are touching?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B3-A2-C18-1522446399894": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello architect",
+            "Greeting"
+        ],
+        [
+            "<builder> it appears our creators are having problems...",
+            "Status Update"
+        ],
+        [
+            "<builder> i am ready when you are",
+            "Greeting"
+        ],
+        [
+            "<builder> does it matter where?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i'm not sure i understand",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> thank you architect",
+            "Others"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> shall i fill it in?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> is it complete?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> no, we did it",
+            "Status Update"
+        ],
+        [
+            "<builder> good job architect",
+            "Display Understanding"
+        ]
+    ],
+    "B3-A2-C9-1522446858071": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello once again architect",
+            "Greeting"
+        ],
+        [
+            "<builder> i am ready if you will lead me",
+            "Greeting"
+        ],
+        [
+            "<builder> understood",
+            "Display Understanding"
+        ],
+        [
+            "<builder> do i need to shift it?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how about that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok, is it touching or space in between?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder>
