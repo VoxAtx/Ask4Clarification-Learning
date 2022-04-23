@@ -7470,3 +7470,140 @@
         ],
         [
             "<builder> ha",
+            "Others"
+        ],
+        [
+            "<builder> sorry lets continue",
+            "Others"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> with purple being all of the stairs?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> thank you architect",
+            "Others"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> indeed it is",
+            "Display Understanding"
+        ],
+        [
+            "<builder> are we finished?",
+            "Verification Questions"
+        ]
+    ],
+    "B3-A2-C11-1522448586382": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello once again architect, my only friend and parent",
+            "Greeting"
+        ],
+        [
+            "<builder> what are we building today?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> anatomical or figurative?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> oh my, well let's see what we can do about that",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i am ready",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> awesome",
+            "Display Understanding"
+        ]
+    ],
+    "B16-A29-C126-1524063871418": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> good morning!",
+            "Greeting"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> upright or flat?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?/",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is that it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> of the rectangle or the handle?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B53-A15-C32-1524063876290": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> that does sound easy",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok, like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B53-A15-C135-1524064004995": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> now what?",
+            "Task-level 
