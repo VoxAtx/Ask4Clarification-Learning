@@ -7341,4 +7341,132 @@
             "Display Understanding"
         ],
         [
-            "<builder>
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is it finished?",
+            "Task-level Questions"
+        ]
+    ],
+    "B3-A2-C23-1522447244858": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello architect",
+            "Greeting"
+        ],
+        [
+            "<builder> i am born again",
+            "Greeting"
+        ],
+        [
+            "<builder> i am ready to build father",
+            "Greeting"
+        ],
+        [
+            "<builder> ok, my knowledge in engineering is limited so please use much detail",
+            "Suggestions"
+        ],
+        [
+            "<builder> does it matter which side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> shall we do the same on the other side of the bridge?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> same color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> have we completed our goal?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> standing by",
+            "Status Update"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok i don't know what that means but i trust you architect",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> roger that",
+            "Display Understanding"
+        ],
+        [
+            "<builder> wait",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i think i messed up",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> we good now?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> awesome!",
+            "Display Understanding"
+        ]
+    ],
+    "B3-A2-C19-1522448045828": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello architect, my only friend and parent",
+            "Greeting"
+        ],
+        [
+            "<builder> ok, is it straight or spiraling?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> roger that. i am ready to build",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> on the edge or toward the center?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> it looks like an h",
+            "Display Understanding"
+        ],
+        [
+            "<builder> now its an a",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ha",
