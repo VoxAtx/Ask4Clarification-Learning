@@ -7731,4 +7731,140 @@
             "Greeting"
         ],
         [
-            "<builde
+            "<builder> ok got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i think i know what you want. let me try",
+            "Display Understanding"
+        ],
+        [
+            "<builder> done",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ah okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there we go",
+            "Status Update"
+        ],
+        [
+            "<builder> you could have just told me to build a banana man",
+            "Suggestions"
+        ]
+    ],
+    "B16-A29-C136-1524064631721": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello!",
+            "Greeting"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> funky",
+            "Others"
+        ],
+        [
+            "<builder> brown? or orange?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> at the invisible neck?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B16-A29-C132-1524065152523": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> welcome back!",
+            "Greeting"
+        ],
+        [
+            "<builder> beep boop, okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> fun shape",
+            "Others"
+        ],
+        [
+            "<builder> no problem!",
+            "Display Understanding"
+        ]
+    ],
+    "B53-A15-C138-1524065266218": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> sounds easy enough",
+            "Display Understanding"
+        ],
+        [
+            "<builder> which color is first?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> vertical or horizontal?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> should it be perpendicular to the existing one?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i believe this is what you meant",
+            "Display Understanding"
+        ],
+        [
+            "<builder> it is done",
+            "Display Understanding"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> facing towards the middle?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i hope there's also a yellow one",
+            "Status Update"
+        ],
+        [
+            "<builder> good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> and then make a \"c\" from those?",
+            "Task-level Questions"
+        ]
+    ],
+    "B16-A29-C137-1524065465593": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+        
