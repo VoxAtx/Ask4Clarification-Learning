@@ -7867,4 +7867,128 @@
             "Greeting"
         ],
         [
-        
+            "<builder> hi again! i am ready to build.",
+            "Greeting"
+        ],
+        [
+            "<builder> hola",
+            "Greeting"
+        ],
+        [
+            "<builder> yes",
+            "Display Understanding"
+        ],
+        [
+            "<builder> does it matter where in the environment?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> art",
+            "Others"
+        ],
+        [
+            "<builder> into the strike through or parallel to?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> what color? where? how long?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> whoops, my bad",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> in purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ]
+    ],
+    "B53-A15-C142-1524065765008": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> floating square, got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> alright, i can do that",
+            "Display Understanding"
+        ],
+        [
+            "<builder> will do",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should they be inside the orange ring?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i need more information",
+            "Status Update"
+        ],
+        [
+            "<builder> is it a diagonal line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay, so the one on the side furthest away from me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> then continue the line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> diagonal line, i mean",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok i understand",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> no worries",
+            "Display Understanding"
+        ]
+    ],
+    "B53-A15-C140-1524066269052": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> i was just about to ask",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this good enough location-wise?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> on both sides?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<build
