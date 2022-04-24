@@ -7606,4 +7606,129 @@
         ],
         [
             "<builder> now what?",
-            "Task-level 
+            "Task-level Questions"
+        ],
+        [
+            "<builder> so they should extend to one side, correct?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what color should those blocks be?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oops, my mistake",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok, so this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay, makes sense",
+            "Display Understanding"
+        ],
+        [
+            "<builder> anything else?",
+            "Task-level Questions"
+        ]
+    ],
+    "B16-A29-C127-1524064198121": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi again!",
+            "Greeting"
+        ],
+        [
+            "<builder> alright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> both of the straps are in red or the connector is just in red?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ]
+    ],
+    "B53-A15-C139-1524064322102": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> you have piqued my interest",
+            "Display Understanding"
+        ],
+        [
+            "<builder> stack complete",
+            "Status Update"
+        ],
+        [
+            "<builder> in the future, you can just tell me to build a rectangle",
+            "Suggestions"
+        ],
+        [
+            "<builder> i think this is what you memant",
+            "Display Understanding"
+        ],
+        [
+            "<builder> meant*",
+            "Display Understanding"
+        ]
+    ],
+    "B53-A15-C141-1524064572063": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> that's okay, we'll get it done!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> which side? both?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> to the left, right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yeah i don't understand",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i build the same thing on the other side?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> on the sides of the top block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i am braced",
+            "Greeting"
+        ],
+        [
+            "<builde
