@@ -7991,4 +7991,141 @@
             "Instruction-level Questions"
         ],
         [
-            "<build
+            "<builder> also on the right or no?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i'll fix that",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh, so on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ah i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> moving towards the top?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> but the other two should both be to the top of the first one, right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like so",
+            "Display Understanding"
+        ],
+        [
+            "<builder> excellent",
+            "Display Understanding"
+        ],
+        [
+            "<builder> right or left side?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B16-A29-C134-1524066361355": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi again! more building",
+            "Greeting"
+        ],
+        [
+            "<builder> exciting!",
+            "Others"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> alright, sorry!",
+            "Others"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ]
+    ],
+    "B53-A15-C126-1524067174283": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how high up should it be?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is the short side on the top or the sides?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> that's a fine kettle we've built",
+            "Others"
+        ]
+    ],
+    "B16-A29-C144-1524067263550": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi again!",
+            "Greeting"
+        ],
+        [
+            "<builder> sick",
+            "Others"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ],
+        [
+            "<builder> diagonally or nah?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> grr, okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> a block here?",
+            "Verification Questions"
+        ]
+    ],
+    "B53-A15-C132-1524067475521": [
+        [
+            "<builder> mission has started.",
+   
