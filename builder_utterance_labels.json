@@ -8128,4 +8128,146 @@
     "B53-A15-C132-1524067475521": [
         [
             "<builder> mission has started.",
-   
+            "Greeting"
+        ],
+        [
+            "<builder> directly adjacent?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok, now what?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ah, 3 more, not 3 total",
+            "Display Understanding"
+        ],
+        [
+            "<builder> my mistake",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i'm out of purple blocks",
+            "Status Update"
+        ],
+        [
+            "<builder> ah i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> easy enough",
+            "Display Understanding"
+        ],
+        [
+            "<builder> indeed",
+            "Display Understanding"
+        ]
+    ],
+    "B53-A15-C136-1524067724687": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> excellent",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh starting above the purple",
+            "Display Understanding"
+        ],
+        [
+            "<builder> did i do it right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> aight",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i can do that",
+            "Display Understanding"
+        ],
+        [
+            "<builder> my bad",
+            "Others"
+        ],
+        [
+            "<builder> no neck?",
+            "Task-level Questions"
+        ]
+    ],
+    "B16-A29-C143-1524067984642": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hola",
+            "Greeting"
+        ],
+        [
+            "<builder> yay!",
+            "Others"
+        ],
+        [
+            "<builder> less yay",
+            "Others"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh wair",
+            "Verification Questions"
+        ],
+        [
+            "<builder> sorry about that",
+            "Others"
+        ],
+        [
+            "<builder> so true",
+            "Display Understanding"
+        ],
+        [
+            "<builder> not entirely",
+            "Status Update"
+        ],
+        [
+            "<builder> ready for it",
+            "Greeting"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> it's already beautiful",
+            "Others"
+        ],
+        [
+            "<builder> alright!",
+            "Display Understanding"
+        ]
+    ],
+    "B53-A15-C134-1524068085178": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oops",
+            "Others"
+        ],
+        [
+            "<builder> centered?",
+            "In
