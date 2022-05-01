@@ -8270,4 +8270,137 @@
         ],
         [
             "<builder> centered?",
-            "In
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> should they mirror the orange blocks?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> i don't think i understand",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh, so now we're building a staircase out of rows?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> one more, yes?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> now what?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> hopefully i understood that time",
+            "Display Understanding"
+        ],
+        [
+            "<builder> adjacecnt to the left?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok, are all of the colors the same on the other side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool!",
+            "Others"
+        ]
+    ],
+    "B42-A4-C145-1524078447821": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi, what do you need me to do?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool i only have 1 left",
+            "Status Update"
+        ]
+    ],
+    "B29-A1-C151-1524078449685": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ]
+    ],
+    "B29-A1-C146-1524078716057": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> the last one i placed?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> 4 high total?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B42-A4-C93-1524078776608": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi, what you need me to do?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B42-A4-C150-1524079015788": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi, sorry about that",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok cool",
+            "Display Understanding"
+        ]
+    ],
+    "B29-A1-C52-1524079252247": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+  
