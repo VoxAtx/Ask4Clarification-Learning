@@ -8403,4 +8403,138 @@
         [
             "<builder> mission has started.",
             "Greeting"
-  
+        ],
+        [
+            "<builder> where?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> does it matter which i pair?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or are they all connected?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh so they connect across the center?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> the bridge?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> the other behind me? or to my right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> in the air?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> does it face the same direction?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B42-A4-C149-1524079347889": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hey, where do i start?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i do that in all corners",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> no problemo",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ]
+    ],
+    "B42-A4-C56-1524079868047": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi, what should i do?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> woo",
+            "Others"
+        ]
+    ],
+    "B42-A4-C148-1524080165010": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi, what should i do?",
+            "Task-level Questions"
+        ],
