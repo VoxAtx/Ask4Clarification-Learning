@@ -8668,4 +8668,144 @@
         ],
         [
             "<builder> yay!",
-        
+            "Others"
+        ]
+    ],
+    "B29-A1-C60-1524081354102": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> when you say two, do you mean they are off diagonal?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> parallel",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> you can just tell me right and under",
+            "Suggestions"
+        ]
+    ],
+    "B42-A4-C68-1524081621571": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nope i have red, orange, yellow, green, blue, and purple",
+            "Status Update"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that or one to the left",
+            "Verification Questions"
+        ],
+        [
+            "<builder> done?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ]
+    ],
+    "B29-A1-C152-1524081781433": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B42-A4-C65-1524082095697": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ]
+    ],
+    "B42-A4-C70-1524082466217": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi, what should i do?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> im out of yellow",
+            "Status Update"
+        ],
+        [
+            "<builder> ok yay!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok standing by",
+            "Display Understanding"
+        ],
+        [
+            "<builder> its crazy stairs",
+            "Others"
+        ]
+    ],
+    "B29-A1-C101-1524082672958": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> orange?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> orange?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B34-A38-C111-1524088829947": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yeah",
+            "Others"
+        ],
+        [
+            "<builder> how should we begin",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> vertical, horizantal?",
+            "Instruction-level Questions"
+        ],
+ 
