@@ -8538,3 +8538,134 @@
             "<builder> hi, what should i do?",
             "Task-level Questions"
         ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i just mirror the first one?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> all good?",
+            "Verification Questions"
+        ]
+    ],
+    "B29-A1-C154-1524080251258": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> on the side i'm facing, you mean?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> in a line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> where does the tower of 3 go?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> sorry missed a message",
+            "Others"
+        ],
+        [
+            "<builder> behind being on my side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> doyou mean place one on the outside of each purple block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> other side being the side with the red?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> the 3 stacks or 2 stacks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> next to them inside or outside?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B42-A4-C96-1524080693968": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B42-A4-C97-1524080857312": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yep yep",
+            "Display Understanding"
+        ],
+        [
+            "<builder> both?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ]
+    ],
+    "B42-A4-C66-1524081116735": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi, what should i do?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what orientation from the 1st",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok where do i start",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> yay!",
+        
