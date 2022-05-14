@@ -8808,4 +8808,130 @@
             "<builder> vertical, horizantal?",
             "Instruction-level Questions"
         ],
- 
+        [
+            "<builder> flat on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> height does matter",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what direction",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> which red block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> how about this",
+            "Verification Questions"
+        ],
+        [
+            "<builder> tell me one block at a time",
+            "Suggestions"
+        ],
+        [
+            "<builder> and what direction",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok, now direct me using my perspective",
+            "Suggestions"
+        ],
+        [
+            "<builder> i wont move",
+            "Status Update"
+        ],
+        [
+            "<builder> off of that yellow block, where should i build?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> in front of and behind work as commands too",
+            "Status Update"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what is the last color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yes?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ]
+    ],
+    "B34-A38-C114-1524089643644": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> what does this on elook like?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> look",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> in 2d",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yeah?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> and the orange is fine?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gr8",
+            "Display Understanding"
+        ]
+    ],
+    "B34-A38-C153-1524089941263": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> 3",
+            "Greeting"
+        ],
+        [
+            "<builder> what is this",
+           
