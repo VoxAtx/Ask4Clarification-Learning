@@ -8934,4 +8934,143 @@
         ],
         [
             "<builder> what is this",
-           
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> then guide me blok by block",
+            "Suggestions"
+        ],
+        [
+            "<builder> i'll stay with this perspective",
+            "Status Update"
+        ],
+        [
+            "<builder> unless you want me to change",
+            "Status Update"
+        ],
+        [
+            "<builder> like on top of that purple block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yeha?",
+            "Greeting"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> which edge",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> um",
+            "Others"
+        ],
+        [
+            "<builder> is this it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> literally what",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yes",
+            "Display Understanding"
+        ],
+        [
+            "<builder> the one i am looking at?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> down?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is there symmetry?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> sad",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this a 2d structure?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> 3x3",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> it looks like a cursive \"ok\" form the other end",
+            "Others"
+        ]
+    ],
+    "B19-A36-C109-1524090674953": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B34-A38-C37-1524090913676": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> right in the middle or somewha
