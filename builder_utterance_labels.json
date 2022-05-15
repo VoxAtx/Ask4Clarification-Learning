@@ -9073,4 +9073,144 @@
             "Instruction-level Questions"
         ],
         [
-            "<builder> right in the middle or somewha
+            "<builder> right in the middle or somewhat close to an edge?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is it filled in?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> is it symmetric?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> lmk the orientation of the s from my perspective",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> should it look like an s or a 2 from my view?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B19-A36-C108-1524090972847": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> with blue?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B19-A36-C62-1524091199214": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B34-A38-C50-1524091418001": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> where do i start",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> which corner is this",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> liek that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> sorry",
+            "Others"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yeha?",
+            "Greeting"
+        ],
+        [
+            "<builder> gr8",
+            "Display Understanding"
+        ]
+    ],
+    "B19-A36-C54-1524091625348": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+       
