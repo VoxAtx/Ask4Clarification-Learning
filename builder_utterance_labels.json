@@ -9213,4 +9213,145 @@
             "Greeting"
         ],
         [
-       
+            "<builder> which left",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i put it one space closer to he yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B34-A38-C147-1524092233884": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> the numbers",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> inn 2d?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> start me with 3",
+            "Suggestions"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is it floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or is what i placed good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> um",
+            "Others"
+        ],
+        [
+            "<builder> 3",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> because that looks like a 3",
+            "Display Understanding"
+        ],
+        [
+            "<builder> one goofy 3",
+            "Others"
+        ],
+        [
+            "<builder> where i am standing?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> there",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> here",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> now where?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ??",
+            "Verification Questions"
+        ],
+        [
+            "<builder> awkward",
+            "Display Understanding"
+        ],
+        [
+            "<builder> gr8",
+            "Display Understanding"
+        ]
+    ],
+    "B19-A36-C69-1524092240889": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> oh sorry",
+            "Others"
+        ],
+        [
+            "<builder> uh should the red square hang over the blue blocks",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> right in front?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> for the other row too?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> neat",
+            "Others"
+        ],
+        [
+            "<builder> cool",
+            "Display Unde
