@@ -9497,4 +9497,144 @@
             "Instruction-level Questions"
         ],
         [
-            "
+            "<builder> im confused",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> thanks",
+            "Others"
+        ],
+        [
+            "<builder> you too",
+            "Others"
+        ]
+    ],
+    "B19-A36-C73-1524094272202": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> do you mean like a x=y curve",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i mean line",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B19-A36-C80-1524094644710": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> other corner?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> behind or like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is that good",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that or one space higher",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> np you did a good job",
+            "Others"
+        ],
+        [
+            "<builder> thanks :)",
+            "Others"
+        ]
+    ],
+    "B19-A36-C81-1524095641060": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> thanks",
+            "Others"
+        ],
+        [
+            "<builder> you too",
+            "Others"
+        ]
+    ],
+    "B35-A15-C154-1524245575016": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yup!",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or flat?",
