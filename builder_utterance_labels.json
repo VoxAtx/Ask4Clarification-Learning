@@ -9638,3 +9638,145 @@
         ],
         [
             "<builder> or flat?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> 2 columns?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> a column going up",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or a row on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> did we run out of space?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> i hope not lol",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> sweet",
+            "Display Understanding"
+        ],
+        [
+            "<builder> that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like a door?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> same lol",
+            "Others"
+        ]
+    ],
+    "B35-A15-C40-1524246353413": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> i don't believe you",
+            "Others"
+        ],
+        [
+            "<builder> jk",
+            "Others"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> awesome!",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A15-C145-1524246503045": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> right or left?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ]
+    ],
+    "B35-A15-C152-1524246905435": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so is the top of the stack 
