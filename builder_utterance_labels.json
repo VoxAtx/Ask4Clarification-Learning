@@ -9779,4 +9779,136 @@
             "Display Understanding"
         ],
         [
-            "<builder> so is the top of the stack 
+            "<builder> so is the top of the stack the center of the 3x3 or is it floating above it?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> wait did i make a 5x5 on accident",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so the block i just place down is the left edge",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay there we go",
+            "Status Update"
+        ],
+        [
+            "<builder> there we go and no worries",
+            "Status Update"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay. tell me where to delete",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> bett",
+            "Others"
+        ]
+    ],
+    "B35-A15-C62-1524247870536": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this or on top of the legs?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> in red?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> and where from this reference point do u want to place it?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> should it be at the same height, on the ground",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sweet",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A39-C126-1524248479106": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oaky",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> alright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sweet",
