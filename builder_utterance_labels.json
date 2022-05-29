@@ -9354,4 +9354,147 @@
         ],
         [
             "<builder> cool",
-            "Display Unde
+            "Display Understanding"
+        ]
+    ],
+    "B19-A36-C72-1524092884681": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> the left side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> its ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> on the ground or floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> mhm",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so do i just move the face one block further from the body?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> stairs?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> np",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> thanks you too",
+            "Others"
+        ]
+    ],
+    "B34-A38-C121-1524093150835": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ],
+        [
+            "<builder> where now",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> same color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yeha?",
+            "Greeting"
+        ]
+    ],
+    "B34-A38-C54-1524093620446": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> :|",
+            "Others"
+        ],
+        [
+            "<builder> um",
+            "Others"
+        ],
+        [
+            "<builder> like there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yes?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> going up?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ??",
+            "Verification Questions"
+        ]
+    ],
+    "B19-A36-C118-1524093668453": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how should they be oriented",
+            "Instruction-level Questions"
+        ],
+        [
+            "
