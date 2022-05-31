@@ -9912,3 +9912,142 @@
         ],
         [
             "<builder> sweet",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A39-C122-1524248727636": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> how high?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> done",
+            "Display Understanding"
+        ],
+        [
+            "<builder> done",
+            "Display Understanding"
+        ],
+        [
+            "<builder> how many?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> same thing on other side?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> done",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sounds good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> thanks! you too",
+            "Others"
+        ]
+    ],
+    "B35-A39-C130-1524249079307": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> lol all good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> am i building towards me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh okay gotcha lol",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i don't quite follow",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sweet!",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A39-C105-1524249475661": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sounds good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> 2x3 longside on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or shortside on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Dis
