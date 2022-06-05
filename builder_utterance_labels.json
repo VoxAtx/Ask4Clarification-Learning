@@ -10329,4 +10329,135 @@
             "Greeting"
         ],
         [
-            "<
+            "<builder> to make things easier, i'll always start at the center",
+            "Suggestions"
+        ],
+        [
+            "<builder> if the structure is big, i can move to the edges",
+            "Suggestions"
+        ],
+        [
+            "<builder> just lmk",
+            "Suggestions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> in particular order?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this look right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh, you wanted me to stack them",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> i misunderstood",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> looks like a person",
+            "Others"
+        ],
+        [
+            "<builder> sweet",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ctrl c",
+            "Others"
+        ]
+    ],
+    "B29-A34-C64-1524256800743": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B35-A55-C77-1524256909014": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> im ready",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> start here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this going to look like a maze?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> 2 blue?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> close enough lol",
+            "Others"
+        ]
+    ],
+    "B29-A34-C104-1524257022549": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> across you mean?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> but only the top on each stack?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or the two topmost?",
+            "Instruction-l
