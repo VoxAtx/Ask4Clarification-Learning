@@ -10460,4 +10460,144 @@
         ],
         [
             "<builder> or the two topmost?",
-            "Instruction-l
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A55-C33-1524257297071": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or the other side lol",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> just to clarify",
+            "Verification Questions"
+        ],
+        [
+            "<builder> everything so far is what you've wanted correct?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay, from this perspective, tell me what blocks i need to add or delete",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> is this the cross you wanted?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is that it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> looks like a carrot",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> that it?",
+            "Verification Questions"
+        ]
+    ],
+    "B29-A34-C82-1524257452758": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B29-A34-C90-1524257794279": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> 2 pf?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry about that",
+            "Others"
+        ],
+        [
+            "<builder> which color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i am...",
+            "Status Update"
+        ]
+    ],
+    "B35-A55-C153-1524257976842": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i didn't delete a block",
+            "Status Update"
+        ],
+        [
+            "<builder> coool",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ye",
+            "Others"
+        ],
+        [
+            "<builder> did u want this",
+            "Verification Questions"
