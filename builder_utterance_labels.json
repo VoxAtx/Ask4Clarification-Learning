@@ -10188,4 +10188,145 @@
         ],
         [
             "<builder> isn't there already a block there?",
-          
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> each green?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> other side from where i'm facing?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B29-A34-C28-1524254993132": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> what sort?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> solid?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> 2nd back from the head",
+            "Status Update"
+        ]
+    ],
+    "B29-A34-C102-1524255312019": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> wow",
+            "Others"
+        ],
+        [
+            "<builder> diagonal towards or away from the oragne?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> orange blocks",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> thanks",
+            "Others"
+        ]
+    ],
+    "B29-A34-C83-1524255780479": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> let's do it",
+            "Greeting"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ]
+    ],
+    "B29-A34-C29-1524255983414": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> on the plane?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or into the air?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> adjacent to the blue?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yeehaw",
+            "Others"
+        ]
+    ],
+    "B35-A55-C3-1524256220437": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ]
+    ],
+    "B29-A34-C81-1524256415339": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> only the corners?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> fromthe ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh",
+            "Others"
+        ],
+        [
+            "<builder> excellent",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A55-C43-1524256458640": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<
