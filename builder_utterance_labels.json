@@ -10744,4 +10744,141 @@
         ],
         [
             "<builder> ok",
-            "Display Understandin
+            "Display Understanding"
+        ]
+    ],
+    "B35-A55-C78-1524260291965": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> suppose this is a 4 x4 shape the top right is the red block furthest to the top",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> where do you want me to place a block",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> awesome. no worries. it can get can get confusing",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oka",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay*",
+            "Display Understanding"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok\\",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ye",
+            "Others"
+        ]
+    ],
+    "B35-A55-C55-1524260999646": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> from here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry about that",
+            "Others"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yeah i'm a little confused",
+            "Display Understanding"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> are we close to finishing?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sweeeeeeet",
+            "Display Understanding"
+        ]
+    ],
+    "B36-A38-C151-1524261931033": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> sounds good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> sure",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> no prob",
+            "Display Understanding"
+        ],
+        [
+            "<builder> lik
