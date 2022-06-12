@@ -10881,4 +10881,152 @@
             "Display Understanding"
         ],
         [
-            "<builder> lik
+            "<builder> like this??",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B25-A51-C111-1524261941627": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> where are we starting?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what color",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ran out of green",
+            "Status Update"
+        ],
+        [
+            "<builder> am i doing that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ]
+    ],
+    "B36-A38-C25-1524262247384": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sure",
+            "Display Understanding"
+        ],
+        [
+            "<builder> no prob",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> to the right by how many spaces?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> and is it floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sure",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sounds good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B25-A51-C47-1524262518407": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> where should i star",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> start",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> above or below",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> my bad",
+            "Others"
+        ]
+    ],
+    "B36-A38-C53-1524262591934": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> ok cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sure",
+            "Display Understanding"
+        ],
+        [
+            "<
