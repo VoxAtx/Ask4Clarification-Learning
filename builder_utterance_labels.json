@@ -11745,4 +11745,145 @@
             "Display Understanding"
         ],
         [
-            "<builder
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> o wait sorry",
+            "Others"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok cool",
+            "Display Understanding"
+        ]
+    ],
+    "B25-A51-C27-1524265565282": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ]
+    ],
+    "B25-A51-C2-1524266159493": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> what's the second layer?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> should i keep the extensions i added",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> kk",
+            "Others"
+        ]
+    ],
+    "B36-A38-C52-1524266430224": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> o ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> o it's ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is the 3 x 3 square in the middle of the orange ones?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> o ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> idk why i thought it was green sorry lol",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> o ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> greata",
+            "Display Understanding"
+        ],
+        [
+            "<builder> *great",
+            "Display Understanding"
+        ]
+    ],
+    "B25-A51-C35-1524266643412": [
+        [
+            "<builder> mission has started.",
+            "Gree
