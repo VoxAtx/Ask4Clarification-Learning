@@ -11886,4 +11886,152 @@
     "B25-A51-C35-1524266643412": [
         [
             "<builder> mission has started.",
-            "Gree
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yea",
+            "Others"
+        ],
+        [
+            "<builder> is that right",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yea",
+            "Others"
+        ],
+        [
+            "<builder> lol no prob",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A15-C118-1523891056167": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello. ready",
+            "Greeting"
+        ],
+        [
+            "<builder> do i repeat the thing i did with orange but on red?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A15-C115-1523891547014": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> ncie",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A15-C123-1523891780457": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> where?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> not sure",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nie",
+            "Others"
+        ],
+        [
+            "<builder> c",
+            "Others"
+        ]
+    ],
+    "B44-A15-C116-1523892176572": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A15-C117-1523892469087": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> ince",
+            "Others"
+        ]
+    ],
+    "B44-A15-C119-1523892860815": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> i'm confused",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A15-C121-1523893512968": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+  
