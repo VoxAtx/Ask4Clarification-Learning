@@ -12318,4 +12318,134 @@
         ],
         [
             "<builder> ye",
-  
+            "Others"
+        ],
+        [
+            "<builder> like this lol",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ]
+    ],
+    "B51-A54-C135-1523911028014": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> rip me lol",
+            "Others"
+        ],
+        [
+            "<builder> nope :-(",
+            "Display Understanding"
+        ],
+        [
+            "<builder> lmao",
+            "Others"
+        ],
+        [
+            "<builder> like this",
+            "Verification Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> gorgeous lol",
+            "Others"
+        ]
+    ],
+    "B38-A42-C132-1523911175052": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> what are we building today?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok,",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what should i do first?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> purple block, or pillar?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ah, no. this is the only purple i have",
+            "Status Update"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> will this pattern of pillars with red blocks repeat?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok, what colors are the pillars?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ah, ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i remove all of the red blocks, or are some of them in the right place?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok, are these red blocks in the right place?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ah, ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B51-A54-C127-1523911449377": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> nice",
+            "Display Understan
