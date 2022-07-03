@@ -12585,4 +12585,133 @@
             "Task-level Questions"
         ],
         [
-            "<bu
+            "<builder> ok, including the orange?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> it's like a parachute",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B51-A54-C138-1523911921217": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> wrow",
+            "Others"
+        ],
+        [
+            "<builder> like this ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ur good lol",
+            "Display Understanding"
+        ],
+        [
+            "<builder> which way is the bottom part going towards",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this",
+            "Verification Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> which color",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B51-A54-C137-1523912531770": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> i dont think i have enough lol",
+            "Status Update"
+        ],
+        [
+            "<builder> or is there no fill in the square?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like just the outline",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yeah",
+            "Others"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ],
+        [
+            "<builder> hows this",
+            "Verification Questions"
+        ],
+        [
+            "<builder> wait what",
+            "Display Understanding"
+        ],
+        [
+            "<builder> wrow",
+            "Others"
+        ],
+        [
+            "<builder> four on the top?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what arrow",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ohhh",
+            "Others"
+        ],
+        [
+            "<builder> do you want me to replicate the right side onto the left",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> wait what happened to the block",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i dont have anymore purple blocks",
+            "Status Update"
+        ],
+        [
+            "<builder> nvm it like disappeared for a sec lmao",
+         
