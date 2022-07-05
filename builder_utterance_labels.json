@@ -12714,4 +12714,141 @@
         ],
         [
             "<builder> nvm it like disappeared for a sec lmao",
-         
+            "Display Understanding"
+        ],
+        [
+            "<builder> ohh so no u-turns",
+            "Display Understanding"
+        ],
+        [
+            "<builder> haha",
+            "Others"
+        ],
+        [
+            "<builder> wym",
+            "Others"
+        ],
+        [
+            "<builder> do u want me to lower the top portion",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay so move the arrow then",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> one left?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> hows this",
+            "Verification Questions"
+        ]
+    ],
+    "B38-A42-C131-1523912688617": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> what are we building today?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok, what are the table legs?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> will there be enough space?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what's next",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> right there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> next?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that, or a different direction?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> no worries",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool, what's next",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is there more?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> o
