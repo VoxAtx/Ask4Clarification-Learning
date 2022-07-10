@@ -12994,4 +12994,147 @@
             "<builder> ok",
             "Display Understanding"
         ],
-   
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B51-A54-C122-1523914166048": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> uhh",
+            "Others"
+        ],
+        [
+            "<builder> how big of a square",
+            "Others"
+        ],
+        [
+            "<builder> so like combine the blue and orange to make a 3x3?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ur good lmao",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ohhh",
+            "Others"
+        ],
+        [
+            "<builder> is this like a weird bird lmao",
+            "Others"
+        ],
+        [
+            "<builder> which direction? on top",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B51-A54-C131-1523914706199": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hey do u know how many we've done so far lol",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> nice what color",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> touching the purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> do the same thing?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B51-A54-C133-1523915495911": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> wait so",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ohh",
+            "Others"
+        ],
+        [
+            "<builder> look at this beautiful architecture",
+            "Others"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B36-A35-C17-1523916463263": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> flat or standing?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B36-A35-C139-1523916627477": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> does it matter where i put it?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+ 
