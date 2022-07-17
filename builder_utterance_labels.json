@@ -13703,4 +13703,139 @@
             "Display Understanding"
         ],
         [
-            "<build
+            "<builder> purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ]
+    ],
+    "B20-A30-C84-1523457182003": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello. how much space should i leave?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> great",
+            "Display Understanding"
+        ]
+    ],
+    "B20-A30-C85-1523457382936": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how much space for this one?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> alrighty",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this any particular shape?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> furthest out?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> on both sides?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ]
+    ],
+    "B20-A30-C82-1523457660797": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how much space this time?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> im going to mark down how much space i have",
+            "Status Update"
+        ],
+        [
+            "<builder> should i start in the middle or a corner",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> inside corner or outside corner?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> liek that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like*",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> alright",
+            "Disp
