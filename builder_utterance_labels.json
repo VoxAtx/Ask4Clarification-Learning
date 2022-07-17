@@ -13838,4 +13838,138 @@
         ],
         [
             "<builder> alright",
-            "Disp
+            "Display Understanding"
+        ]
+    ],
+    "B20-A30-C83-1523458303350": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> 5x5 or 5x1",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> do i fill it in",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B20-A30-C81-1523458590257": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> should i leave a lot of room then?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> am i deleting anything?",
+            "Verification Questions"
+        ]
+    ],
+    "B20-A30-C80-1523458941829": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> alright. how big?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> this side?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> am i just building an l?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here? for each leg?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this way?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> how big?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ]
+    ],
+    "B20-A30-C64-1523460019668": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how big",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ]
+    ],
+    "B20-A30-C77-1523460338518": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay im ready",
+            "Greeting"
+        ],
+        [
+            "<builder> in purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> starting under this red or to the side",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B20-A30-C23-1523460705190": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how much space",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ready when you are",
+            "Greeting"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+  
