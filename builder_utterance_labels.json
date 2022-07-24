@@ -14109,4 +14109,130 @@
         [
             "<builder> like that?",
             "Verification Questions"
-    
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> done",
+            "Display Understanding"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> same on the other one?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> if its mirrored you could describe one side and i'll fill in the other",
+            "Suggestions"
+        ],
+        [
+            "<builder> is that right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ]
+    ],
+    "B31-A23-C88-1523476504269": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is here okay or is that too close?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> correct",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that what you meant?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay, i deleted that block",
+            "Status Update"
+        ],
+        [
+            "<builder> what side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is the blue block that i already put down correct?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay, just give me directions from the organe square",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> *orange",
+            "Suggestions"
+        ],
+        [
+            "<builder> this side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> three blocks inbetween them or on the third block moving away from the square?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> which direction should it be",
+            "Instruction-level Questions"
+       
