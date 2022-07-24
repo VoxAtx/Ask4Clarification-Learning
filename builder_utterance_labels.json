@@ -13972,4 +13972,141 @@
             "<builder> here?",
             "Verification Questions"
         ],
-  
+        [
+            "<builder> repeat here?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> this way?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> do i connect these too?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> what do you mean?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i'm out of red blocks now",
+            "Status Update"
+        ]
+    ],
+    "B20-A30-C19-1523461404355": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay, whats's this one need",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> should i delete the top one",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> pardon?",
+            "Display Understanding"
+        ],
+        [
+            "<builder> with purple",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B20-A30-C18-1523461994171": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how big",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ]
+    ],
+    "B31-A23-C85-1523475031031": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello!",
+            "Greeting"
+        ],
+        [
+            "<builder> is that right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> no problem",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B31-A23-C84-1523475405450": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ]
+    ],
+    "B31-A23-C86-1523475614952": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> let's do it",
+            "Greeting"
+        ],
+        [
+            "<builder> does it matter what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+    
