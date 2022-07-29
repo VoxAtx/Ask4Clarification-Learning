@@ -14235,4 +14235,134 @@
         [
             "<builder> which direction should it be",
             "Instruction-level Questions"
-       
+        ],
+        [
+            "<builder> no worries",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> wait",
+            "Display Understanding"
+        ],
+        [
+            "<builder> where?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is that right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so i'm starting here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> which one was that, i don't remember",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ]
+    ],
+    "B31-A23-C87-1523478701662": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> where?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay, i'll wait",
+            "Status Update"
+        ],
+        [
+            "<builder> which way is forward?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this row?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> on top of it?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B31-A23-C90-1523479524099": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> not one diagonal longer?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> move the purple up two blocks as well?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is the purple sitting on top
