@@ -14628,4 +14628,143 @@
         ],
         [
             "<builder> what's next?",
-  
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok, cool",
+            "Display Understanding"
+        ]
+    ],
+    "B25-A10-C85-1523487049531": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> 2d?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oops",
+            "Others"
+        ],
+        [
+            "<builder> hmmm how do you mean",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B25-A10-C87-1523487347683": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> vertical or horizontal?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh like the tetris piece",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i just build the same thing i just did?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that or on the ground?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> i can use green to make it easier to check",
+            "Status Update"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this the stack overflow logo",
+            "Others"
+        ],
+        [
+            "<builder> oh ok, is that it?",
+            "Verification Questions"
+        ]
+    ],
+    "B25-A10-C83-1523488152700": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B25-A10-C88-1523488530039": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how f
