@@ -14365,4 +14365,135 @@
             "Instruction-level Questions"
         ],
         [
-            "<builder> is the purple sitting on top
+            "<builder> is the purple sitting on top of the top green block or is it in front, on a different plane?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> am i doing this right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> how far behind and to the left, does it matter/",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> the green top or the purple top",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ]
+    ],
+    "B38-A21-C81-1523486576326": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> so are we ready to start?",
+            "Greeting"
+        ],
+        [
+            "<builder> ok, what's first?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> is everything ok?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what's in the center?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> does it follow the same pattern?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> the one under the red block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok, i did that. is there anything else?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> are we going to repeat this bottom bit?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> neat, is there anything else?",
+            "Task-level Questions"
+        ]
+    ],
+    "B25-A10-C84-1523486756992": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> which color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there we go",
+            "Status Update"
+        ],
+        [
+            "<builder> is that it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> kk kill me",
+            "Others"
+        ]
+    ],
+    "B38-A21-C80-1523486971069": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello!",
+   
