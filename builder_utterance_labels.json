@@ -14496,4 +14496,136 @@
         ],
         [
             "<builder> hello!",
-   
+            "Greeting"
+        ],
+        [
+            "<builder> yup",
+            "Others"
+        ],
+        [
+            "<builder> ooh,",
+            "Others"
+        ],
+        [
+            "<builder> what's first?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> on top of each other or like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> and next?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> will we repeat that again?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> to the left?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or above where it was?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh, away from me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok, sorry about that",
+            "Others"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> the one i am looking at?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok,",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ah, should it be going to my left or my right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool, should there be another orange block like this one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> going up this time?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> a third block too?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is there another diagonal block like the first bit?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> pk",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok*",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this a running guy?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what's next?",
+  
