@@ -14896,3 +14896,136 @@
         ],
         [
             "<builder> yay",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should i put one more in the front or the back",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B25-A10-C64-1523490174850": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ],
+        [
+            "<builder> looks like a torch",
+            "Others"
+        ],
+        [
+            "<builder> is that it?",
+            "Verification Questions"
+        ]
+    ],
+    "B29-A26-C51-1523374483230": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> which square in the middle?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> height?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> total height",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> to my left?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B29-A26-C57-1523374876610": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> next too meaning?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ]
+    ],
+    "B29-A26-C26-1523375180553": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> above?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> on a diagonal or line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> please tell me where the orange brick should be floating",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> where i'm standing",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or floating",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> thank you",
+            "Others"
+        ]
+    ],
+    "B29-A26-C35-1523375743673": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> forward to my right or in front of me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> behind relative to?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> my back?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> which color?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B29-A26-C62-1523376847005": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> which color for pi?",
+  
