@@ -14767,4 +14767,132 @@
             "Instruction-level Questions"
         ],
         [
-            "<builder> how f
+            "<builder> how far from the edge should i build it?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is it the rightmost or leftmost part of the build",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> how far apart are they, and what colors?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> how many blocks forward or backward?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is it like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> which blocks should i take out?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ah i see the m now",
+            "Display Understanding"
+        ],
+        [
+            "<builder> where is the other m?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B38-A21-C82-1523488754136": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> heyo",
+            "Others"
+        ],
+        [
+            "<builder> so what's the first step?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> ok, how big and what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> across?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that or on the inside?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> should i get rid of the center blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> same size as the base?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> hmm, i don't have any comparisons. maybe the eiffel tower?",
+            "Others"
+        ]
+    ],
+    "B25-A10-C86-1523489364518": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> my bad",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yay",
