@@ -15028,4 +15028,138 @@
         ],
         [
             "<builder> which color for pi?",
-  
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> will one be over the h?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> all the colors are the same?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B29-A26-C61-1523377446066": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ]
+    ],
+    "B29-A26-C63-1523377699628": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B29-A26-C69-1523377912426": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> does it matter which side overhangs?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh wait",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yes",
+            "Display Understanding"
+        ],
+        [
+            "<builder> bad robot",
+            "Others"
+        ]
+    ],
+    "B29-A26-C70-1523378410093": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> i'm out of yellow",
+            "Status Update"
+        ]
+    ],
+    "B29-A26-C71-1523379000553": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> every line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> vertical and horizontal?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B29-A26-C72-1523379358702": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> same start and end points?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oof",
+            "Others"
+        ],
+        [
+            "<builder> )",
+            "Others"
+        ]
+    ],
+    "B25-A3-C39-1523383312309": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> whats poppin",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> aight",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> kk",
+            "Others"
+        ],
+        [
+            "<builder> which face of the top right corner of the green figure?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> top face or the face going outward to the right",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> lit",
+            "Others"
+        ],
+        [
+            "<builder> as in the bottom right corner is connected to the back left face of the green window?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> aight",
+            "Display Under
