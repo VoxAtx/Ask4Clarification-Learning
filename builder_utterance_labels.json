@@ -15162,4 +15162,132 @@
         ],
         [
             "<builder> aight",
-            "Display Under
+            "Display Understanding"
+        ]
+    ],
+    "B25-A3-C51-1523383729614": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how many blocks wide is the whole figure?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> just so i can gauge where to start",
+            "Suggestions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> kk",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> nice nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> lit",
+            "Others"
+        ]
+    ],
+    "B25-A3-C79-1523384030017": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> for sure",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that good enough?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ohhh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> no prob",
+            "Display Understanding"
+        ],
+        [
+            "<builder> amen brother",
+            "Others"
+        ],
+        [
+            "<builder> like flat on the ground?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> kk",
+            "Others"
+        ],
+        [
+            "<builder> we good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> im getting positive vibes from this build",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> which face on the rightmost orange block does it go on?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> facing up, facing me, facing down",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> can you explain what you meant by one more piece on each side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> did you mean the middle piece?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> kk",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh ok lemme go back",
+            "Status Update"
+        ],
+        [
+            "<builder> how would you describe it from here?",
+            "Task-level Questi
