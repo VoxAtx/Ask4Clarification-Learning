@@ -15433,4 +15433,135 @@
             "Instruction-level Questions"
         ],
         [
-            "<
+            "<builder> this is some demon bunny fr fr",
+            "Others"
+        ],
+        [
+            "<builder> is that all for the tail?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> p majestic tbh",
+            "Others"
+        ],
+        [
+            "<builder> im down",
+            "Others"
+        ],
+        [
+            "<builder> im all in",
+            "Others"
+        ]
+    ],
+    "B25-A3-C78-1523385918318": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok, where should i start?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> sounds good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok, what else are we looking at?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> on the ground, on the arch, in the air, or both?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i'll stay in a fixed position so it's easier to give me directions with respect to what i'm looking at",
+            "Status Update"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> another red block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh o",
+            "Others"
+        ],
+        [
+            "<builder> ok*",
+            "Display Understanding"
+        ],
+        [
+            "<builder> no problem",
+            "Display Understanding"
+        ],
+        [
+            "<builder> wait i think i got this",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this ketchup and cheddar take mcdonalds or something",
+            "Others"
+        ],
+        [
+            "<builder> next one?",
+            "Others"
+        ]
+    ],
+    "B25-A3-C57-1523386572302": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> to the left of the board?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> something like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "<Builder> wow that is a funky 3\t8": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that good?",
+         
