@@ -15290,4 +15290,147 @@
         ],
         [
             "<builder> how would you describe it from here?",
-            "Task-level Questi
+            "Task-level Questions"
+        ],
+        [
+            "<builder> on this block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> middle of the yellow cross?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> kk",
+            "Others"
+        ]
+    ],
+    "B25-A3-C73-1523384830418": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ],
+        [
+            "<builder> aight",
+            "Greeting"
+        ],
+        [
+            "<builder> dimensions?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> wxlxh",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> just so we develop a convention",
+            "Suggestions"
+        ],
+        [
+            "<builder> kk",
+            "Others"
+        ],
+        [
+            "<builder> my bad i misread that, but that still works?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> k",
+            "Others"
+        ],
+        [
+            "<builder> gotchu",
+            "Display Understanding"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ],
+        [
+            "<builder> yex",
+            "Others"
+        ],
+        [
+            "<builder> or gex",
+            "Others"
+        ],
+        [
+            "<builder> with the g cut off",
+            "Others"
+        ]
+    ],
+    "B25-A3-C72-1523385295902": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> x = y more like x = bye",
+            "Others"
+        ],
+        [
+            "<builder> kk pitch it to me",
+            "Others"
+        ],
+        [
+            "<builder> we got this",
+            "Display Understanding"
+        ],
+        [
+            "<builder> left or right one",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> which should i go with",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> no prob",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> damn we're nailin it",
+            "Status Update"
+        ],
+        [
+            "<builder> are we givin this fool a neck or nah",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> :'(",
+            "Others"
+        ],
+        [
+            "<builder> on both sides or only one?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<
