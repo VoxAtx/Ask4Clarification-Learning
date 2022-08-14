@@ -15564,4 +15564,133 @@
         ],
         [
             "<builder> is that good?",
-         
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> do they go down diagnonally?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> do i fill the lenses?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ]
+    ],
+    "B25-A3-C10-1523387303809": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color blocks should i start with?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i will zoom out for you",
+            "Status Update"
+        ],
+        [
+            "<builder> should i just replicate this design",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok, i'll just try and go for it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> let me know if i do it wrong",
+            "Suggestions"
+        ],
+        [
+            "<builder> it's a rainbow!",
+            "Others"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ]
+    ],
+    "B25-A3-C26-1523387623272": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok, do you want to do it level by level?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> actually your call, you're the architect",
+            "Others"
+        ],
+        [
+            "<builder> just going to center it a bit",
+            "Suggestions"
+        ],
+        [
+            "<builder> my bad",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> and then what are the 3 diagonal pieces?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> my bad",
+            "Others"
+        ],
+        [
+            "<builder> where does the red go?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yay",
+            "Others"
+        ],
+        [
+            "<builder> im going to assume for aesthetic purposes they go there",
+            "Status Update"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what's a builder without an architect???",
+            "Others"
+        ]
+    ],
+    "B25-A3-C59-1523388197708": [
+        [
+            "<builder> mission ha
