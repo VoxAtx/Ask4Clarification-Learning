@@ -15828,4 +15828,138 @@
         ],
         [
             "<builder> got it :)",
-            "Display Understan
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that, or one shorter?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> got it!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok!",
+            "Display Understanding"
+        ]
+    ],
+    "B15-A38-C12-1523399104809": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or stacked on top of the red ones?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> got it!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there doesn't seem like there's enough space to mirror it",
+            "Status Update"
+        ],
+        [
+            "<builder> is that is, or should i mirror it?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that it*",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay cool!",
+            "Display Understanding"
+        ]
+    ],
+    "B3-A16-C63-1523399116516": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> no problem, if it's hard to describe we can just go step by step",
+            "Suggestions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this good so far?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ah like a question mark",
+            "Others"
+        ],
+        [
+            "<builder> sort of",
+            "Others"
+        ],
+        [
+            "<builder> awesome!",
+            "Display Understanding"
+        ]
+    ],
+    "B3-A16-C16-1523399418222": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> sure, take your time",
+            "Display U
