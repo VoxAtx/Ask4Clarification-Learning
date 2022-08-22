@@ -15962,4 +15962,139 @@
         ],
         [
             "<builder> sure, take your time",
-            "Display U
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that ok to start?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> sorry, ready for more",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> no worries",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so then like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool, is there more?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> i think i see a pattern",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i understand. please continue!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> also feel free to tell me to move if you think another perspective will help",
+            "Suggestions"
+        ],
+        [
+            "<builder> that one was tough",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is it complete?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok sure",
+            "Display Understanding"
+        ]
+    ],
+    "B15-A38-C1-1523399524945": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> how high?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> done!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> feel free to pipeline instructions if you think it'll work better!",
+            "Suggestions"
+        ],
+        [
+            "<builder> there, or should it be lower?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> alright!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i'm guessing 5 below that?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> a row of 5?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ]
+    ],
+    "B15-A38-C11-1523400016265": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> interesting :o",
+            "Others"
+        ],
+        [
+            "<builder> oh, ok!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok!",
+            "Display Understanding"
+        ],
+        [
+            "<builder
