@@ -16097,4 +16097,140 @@
             "Display Understanding"
         ],
         [
-            "<builder
+            "<builder> kk",
+            "Others"
+        ],
+        [
+            "<builder> under it?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B3-A16-C20-1523400381488": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> it's okay, is my positioning right or should i center it more?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how's that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> no worries!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry",
+            "Others"
+        ],
+        [
+            "<builder> whats the full color spectrum from the bottom up?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok cool! i'll get to it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> rainbow box",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> those two?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> sorry",
+            "Others"
+        ],
+        [
+            "<builder> how's that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay you got this",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok sorry, i thought so but wanted to wait for confirmation",
+            "Verification Questions"
+        ],
+        [
+            "<builder> on to the next one!",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that one?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is it complete?",
+            "Verification Questions"
+        ]
+    ],
+    "B15-A38-C9-1523400593183": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> easy enough",
+            "Display Understanding"
+        ],
+        [
+            "<builder> got it!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is there more?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> i don't have enough green to continue",
+            "Status Update"
+        ],
+        [
+            "<builder> l
