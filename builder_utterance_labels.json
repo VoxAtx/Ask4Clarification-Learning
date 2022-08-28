@@ -16364,4 +16364,135 @@
         ],
         [
             "<builder> like that?",
- 
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that, or one more?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> got it!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> got it, no worries!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> just a pillar, or mirroring the other side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> those corners?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> done!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there, or one more?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> you're fine! this looks hard to describe",
+            "Display Understanding"
+        ]
+    ],
+    "B15-A38-C15-1523402487785": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> got it!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or just one side?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or should it be another space over?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> got it!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> got it!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B54-A1-C144-1523979171030": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hey there",
+            "Greeting"
+        ],
+        [
+            "<builder> horizontal or vertical?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> which way is it ascending?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> left of the last block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> which one?",
