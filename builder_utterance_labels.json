@@ -16233,4 +16233,135 @@
             "Status Update"
         ],
         [
-            "<builder> l
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool!",
+            "Others"
+        ]
+    ],
+    "B15-A38-C61-1523400898802": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> my bad! got it now",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B15-A38-C63-1523401110738": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> okay!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B15-A38-C13-1523401333292": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready!",
+            "Greeting"
+        ],
+        [
+            "<builder> no worries!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what to you mean by sideways?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that but purple?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh, crap",
+            "Verification Questions"
+        ],
+        [
+            "<builder> prependicular",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> the low point next to the red block, or the high one?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> should i shift the whole structure one tile towards me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is that what you mean?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh, wait, i think i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> and up against the edge, or right here?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok, cool!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry about that",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+ 
