@@ -16628,4 +16628,125 @@
         ],
         [
             "<builder> there?",
-            "Verification
+            "Verification Questions"
+        ],
+        [
+            "<builder> great.",
+            "Display Understanding"
+        ]
+    ],
+    "B54-A1-C149-1523980449895": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> on top of where the corners were or on top of the current 8 corners?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so kind of like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh, sorry, i read that as should be...",
+            "Others"
+        ],
+        [
+            "<builder> so are they diagonal to the top purples?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> a vertical t, right? if so, should the horizontal line of the t be in the same plane as the body of the flower?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B4-A40-C110-1523981079603": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> how's that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> in line with the red row?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> and starting where?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> whoops",
+            "Others"
+        ],
+        [
+            "<builder> wait...a column?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how does the row go vertical?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B54-A1-C148-1523981264573": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> where on the table should i start?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> and just bridge them?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this, then?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> diagonally?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B4-A40-C154-1523981971049": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> np",
+            "Display Understanding"
+        ],
+        [
+            "<builder> flat against the surface?",
+            "Instruction-level Questions"
+      
