@@ -16496,3 +16496,136 @@
         ],
         [
             "<builder> which one?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> should it be diagonally touching it?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B4-A40-C146-1523979178367": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> do the stairs overlap at all or is it just diagonal?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like is there a three stack then two stack then one?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay, nothing stacked",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> sweet",
+            "Display Understanding"
+        ]
+    ],
+    "B4-A40-C151-1523979790452": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hey",
+            "Greeting"
+        ],
+        [
+            "<builder> orange still?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> to make a corner?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> easy",
+            "Display Understanding"
+        ]
+    ],
+    "B54-A1-C145-1523979969324": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> on top of the red one i placed?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B4-A40-C152-1523980103101": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> thats okay we're experts",
+            "Others"
+        ],
+        [
+            "<builder> but there are no white blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> makes sense so far",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ah",
+            "Others"
+        ],
+        [
+            "<builder> i thought you were just so disappointed you had to step away",
+            "Others"
+        ],
+        [
+            "<builder> up and around?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> thanks lol",
+            "Others"
+        ],
+        [
+            "<builder> there?",
+            "Verification
