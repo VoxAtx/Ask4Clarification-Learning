@@ -16749,4 +16749,129 @@
         [
             "<builder> flat against the surface?",
             "Instruction-level Questions"
-      
+        ],
+        [
+            "<builder> is it in plane with the blue leg?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or perpendicular?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how's that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> just the one from each?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> outwards toward me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh. so the purple rows are diagonal from each other",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> better?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> same plane?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> damn",
+            "Others"
+        ]
+    ],
+    "B54-A1-C150-1523982123854": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> is the base solid like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> are they on the ground?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B54-A1-C147-1523982608500": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> i'm not sure what you mean by 3-1 4",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this the right idea?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> xd sorry that makes more sense...",
+            "Others"
+        ],
+        [
+            "<builder> in the same direction or the opposite?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> just about to say that too xd",
+            "Display Understanding"
+        ],
+        [
+            "<builder> (sorry about that my finger slipped) is that right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is it just a straight line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> where do we start?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> could we go through it step by step?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B4-A40-C153-1523983188276": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> centered? color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> what do you mean along each diagonal?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ah i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> eh i was hoping we were done lol",
+           
