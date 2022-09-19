@@ -16874,4 +16874,147 @@
         ],
         [
             "<builder> eh i was hoping we were done lol",
-           
+            "Others"
+        ],
+        [
+            "<builder> touching the side of the square?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> phew",
+            "Others"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ]
+    ],
+    "B31-A36-C111-1524004314239": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> okay, what color",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> awesome",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A34-C118-1524004322117": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what do u mean we",
+            "Others"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> bet",
+            "Others"
+        ],
+        [
+            "<builder> u can use mirror and reflect",
+            "Suggestions"
+        ],
+        [
+            "<builder> it'll be easier for me to understand",
+            "Suggestions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> okay so from my perspective",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> where do u want me to build",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> go block by block",
+            "Suggestions"
+        ],
+        [
+            "<builder> now what",
+            "Others"
+        ],
+        [
+            "<builder> hit ctrl c",
+            "Others"
+        ]
+    ],
+    "B31-A36-C115-1524004725879": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello again",
+            "Greeting"
+        ],
+        [
+            "<builder> my bad",
+            "Others"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A34-C120-1524004797173": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> hi, hi, hi, or hi",
+            "Greeting"
+        ],
+        [
+            "<builder> give me a direction",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that's not 
