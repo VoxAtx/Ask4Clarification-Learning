@@ -17151,4 +17151,136 @@
             "Instruction-level Questions"
         ],
         [
-            "<builder> ar
+            "<builder> are the rings 3x3 or 5x5?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this the reference u want me to keep",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is it a reflection?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is it perpindicular to these 2 rings",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so it goes inbetween the holes?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oops",
+            "Others"
+        ],
+        [
+            "<builder> chegg*",
+            "Others"
+        ]
+    ],
+    "B31-A36-C117-1524006144961": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hey",
+            "Greeting"
+        ],
+        [
+            "<builder> noice",
+            "Others"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yep",
+            "Others"
+        ],
+        [
+            "<builder> its all good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that for all three?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> do they go on the corners?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that diagonal?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or across like that",
+            "Verification Questions"
+        ],
+        [
+            "<builder> lol do i need to delete anything from this configuration?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yes",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> both side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> the green one is still good",
+            "Status Update"
+        ],
+        [
+            "<builder> yes, do i need to add another",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> perfect",
+            "Display Understanding"
+        ]
+    ],
+    "B35-A34-C124-1524006274673": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            
