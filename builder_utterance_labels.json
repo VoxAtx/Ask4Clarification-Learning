@@ -17283,4 +17283,143 @@
             "Greeting"
         ],
         [
-            
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> what",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ohhh",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> same size?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ]
+    ],
+    "B35-A34-C125-1524006909862": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> this is #4 right",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> its all vertical right",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this",
+            "Verification Questions"
+        ],
+        [
+            "<builder> and now reflect",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> we done",
+            "Display Understanding"
+        ]
+    ],
+    "B31-A36-C123-1524007209793": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hey",
+            "Greeting"
+        ],
+        [
+            "<builder> lol cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> red?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what does it look like?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> lol i'm down",
+            "Others"
+        ],
+        [
+            "<builder> interesting",
+            "Others"
+        ],
+        [
+            "<builder> thanks",
+            "Others"
+        ]
+    ],
+    "B35-A34-C115-1524007397413": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ctrl c",
+            "Display Understanding"
+        ],
+        [
+            "<builder> continue",
+     
