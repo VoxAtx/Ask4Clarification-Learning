@@ -17846,4 +17846,134 @@
         ],
         [
             "<builder> nice",
-            "Dis
+            "Display Understanding"
+        ]
+    ],
+    "B16-A26-C86-1524153493389": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> cool!",
+            "Others"
+        ],
+        [
+            "<builder> in the same layer as the rest of the structure?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> unless i am reading your directions badly, it doesnt seem like we have enough orange to build this?",
+            "Status Update"
+        ],
+        [
+            "<builder> if we are removing parts of this, we can substitute some for purple",
+            "Suggestions"
+        ],
+        [
+            "<builder> alright!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> alright!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay i see!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> there we go!",
+            "Status Update"
+        ]
+    ],
+    "B53-A4-C90-1524153553448": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yo",
+            "Others"
+        ],
+        [
+            "<builder> how tall?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> so here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> also yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> alright, gimme a moment",
+            "Display Understanding"
+        ],
+        [
+            "<builder> thanks bud",
+            "Others"
+        ],
+        [
+            "<builder> green for the step, purple for the flower?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> stem i mean",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so then here",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> flower facing the same way?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> excellent",
+            "Display Understanding"
+        ]
+    ],
+    "B53-A4-C120-1524154056804": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> you should have been more specific",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B53-A4-C121-1524154262139": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> \"giraffe\"",
+            "Others"
+        ]
+    ],
+    "B53-A4-C113-1524154533854": [
+        [
+            "<builder> mission has started.",
+            "Greet
