@@ -17567,4 +17567,150 @@
     ],
     "B35-A34-C119-1524008747817": [
         [
-            "<builder>
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yeah",
+            "Others"
+        ],
+        [
+            "<builder> they're purple",
+            "Others"
+        ]
+    ],
+    "B31-A36-C130-1524009032445": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hey",
+            "Greeting"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> yep",
+            "Others"
+        ],
+        [
+            "<builder> you too",
+            "Others"
+        ]
+    ],
+    "B16-A26-C120-1524151897965": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> good morning!",
+            "Greeting"
+        ],
+        [
+            "<builder> great, sounds good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> no problem!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> also yellow?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> a cross!",
+            "Display Understanding"
+        ]
+    ],
+    "B53-A4-C122-1524152034663": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> yes i am!",
+            "Greeting"
+        ],
+        [
+            "<builder> excellent",
+            "Display Understanding"
+        ],
+        [
+            "<builder> same color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this the right place?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> copy that",
+            "Display Understanding"
+        ],
+        [
+            "<builder> should they be right next to the wings?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B16-A26-C121-1524152237357": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> best animal, sounds great!",
+            "Others"
+        ],
+        [
+            "<builder> diagonal or not?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B53-A4-C127-1524152409467": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<build
