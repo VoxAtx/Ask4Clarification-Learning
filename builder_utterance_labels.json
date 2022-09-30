@@ -17713,4 +17713,137 @@
             "Greeting"
         ],
         [
-            "<build
+            "<builder> alright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> top corner of the yellow rectangle?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i'm guessing here then?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> thanks",
+            "Others"
+        ]
+    ],
+    "B16-A26-C82-1524152505823": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> sorry about that!",
+            "Others"
+        ]
+    ],
+    "B53-A4-C92-1524152696545": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> to confirm: it's a column of three blocks whose bottom block is diagonal from the one green block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that was easy",
+            "Display Understanding"
+        ]
+    ],
+    "B16-A26-C75-1524152904572": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B53-A4-C88-1524152926999": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> i'm ready",
+            "Greeting"
+        ],
+        [
+            "<builder> one block up?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> one what? column?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay i think i understand, let me try",
+            "Display Understanding"
+        ],
+        [
+            "<builder> alright, i'll fix it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here, yes?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> just kidding, here",
+            "Others"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> two blank spaces",
+            "Status Update"
+        ],
+        [
+            "<builder> birds flying during sunset",
+            "Others"
+        ],
+        [
+            "<builder> no they're birds",
+            "Others"
+        ]
+    ],
+    "B16-A26-C83-1524153180717": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yep!",
+            "Others"
+        ],
+        [
+            "<builder> oh okay!",
+            "Display Understanding"
+        ]
+    ],
+    "B53-A4-C87-1524153344029": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> along the edge?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> nice",
+            "Dis
