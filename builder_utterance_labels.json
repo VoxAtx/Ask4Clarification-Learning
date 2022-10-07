@@ -17976,4 +17976,135 @@
     "B53-A4-C113-1524154533854": [
         [
             "<builder> mission has started.",
-            "Greet
+            "Greeting"
+        ],
+        [
+            "<builder> hey",
+            "Greeting"
+        ],
+        [
+            "<builder> where does the 6 start?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is it directly adjacent?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ah okay, i see",
+            "Display Understanding"
+        ],
+        [
+            "<builder> anything else?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> behind the 8 i'm assuming?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yes",
+            "Display Understanding"
+        ]
+    ],
+    "B16-A26-C135-1524154538127": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi again!",
+            "Greeting"
+        ],
+        [
+            "<builder> alright!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> this?",
+            "Verification Questions"
+        ]
+    ],
+    "B53-A4-C100-1524154965718": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> along the edge or towards the middle?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so here",
+            "Verification Questions"
+        ],
+        [
+            "<builder> will there be another ring after the yellow one?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> what are their colors?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> well that's too bad",
+            "Display Understanding"
+        ],
+        [
+            "<builder> no you're great",
+            "Others"
+        ]
+    ],
+    "B16-A26-C94-1524155062504": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> welcome back!",
+            "Greeting"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ]
+    ],
+    "B53-A4-C99-1524155387021": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> where does it start?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> does the row of 5 include the block that's already there?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> do you mean another block on top of the middle one?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ah okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> alright, take your time",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here",
+            "Verification Questions"
+        ],
+        [
+            "<builder> am i b
