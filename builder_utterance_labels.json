@@ -18248,4 +18248,132 @@
         ],
         [
             "<builder> totally fine!",
-            
+            "Display Understanding"
+        ],
+        [
+            "<builder> yeah sorry! but confusing",
+            "Display Understanding"
+        ],
+        [
+            "<builder> bit*",
+            "Display Understanding"
+        ],
+        [
+            "<builder> oh okay",
+            "Display Understanding"
+        ]
+    ],
+    "B27-A1-C124-1524160867896": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hey",
+            "Greeting"
+        ],
+        [
+            "<builder> does it matter where",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is it going out horizontally?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> towards me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ]
+    ],
+    "B27-A1-C130-1524161803977": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> wall or flat?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> should i move it towards the middle more?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> still blue?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B27-A1-C123-1524162508090": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> should it be towards one side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is it seperated by a space",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B27-A1-C125-1524163043611": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> it looks like a face",
+            "Others"
+        ]
+    ],
+    "B27-A1-C128-1524163632822": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how close to the original two?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> i think i got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> raised?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is that the leftmost block",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this direction?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this one touching the ground?",
+            "Instruction-level Questions"
+        ],
+        
