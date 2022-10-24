@@ -18376,4 +18376,143 @@
             "<builder> is this one touching the ground?",
             "Instruction-level Questions"
         ],
-        
+        [
+            "<builder> ?",
+            "Verification Questions"
+        ]
+    ],
+    "B27-A1-C129-1524164519301": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> how many steps",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B27-A1-C131-1524165101109": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> is it floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this corner?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> off of the blue?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B36-A25-C146-1524175477308": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> my left?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this??",
+            "Verification Questions"
+        ],
+        [
+            "<builder> horizontal?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> to the right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A42-C151-1524175485455": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello. ready",
+            "Greeting"
+        ],
+        [
+            "<builder> sorry some technical difficulties",
+            "Others"
+        ],
+        [
+            "<builder> what?",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> if its ok, could you",
+            "Suggestions"
+        ],
+        [
+            "<builder> give me shorter, less wordy instructions",
+            "Suggestions"
+        ]
+    ],
+    "B36-A25-C147-1524175913340": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> floating?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> o nvm",
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> wha
