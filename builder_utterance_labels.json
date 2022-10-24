@@ -18515,4 +18515,139 @@
             "Verification Questions"
         ],
         [
-            "<builder> wha
+            "<builder> what color",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ooooo",
+            "Others"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A42-C141-1524175959273": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready",
+            "Greeting"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> mirror both blue blocks on the other side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> that would be 1 up, right, toward, not away from me",
+            "Status Update"
+        ],
+        [
+            "<builder> do you want me to mirror that block too?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that was a bit unclear",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like if you could say behidn which yellow block",
+            "Suggestions"
+        ],
+        [
+            "<builder> like the top most yellow block in the main column",
+            "Suggestions"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B36-A25-C138-1524176612571": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> k lol",
+            "Others"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> youre fine",
+            "Others"
+        ],
+        [
+            "<builder> ike this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> *like",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A42-C140-1524176978338": [
+        [
+            "<builder> mission has started.",
+            "Gre
