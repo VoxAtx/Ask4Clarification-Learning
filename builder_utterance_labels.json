@@ -18942,4 +18942,144 @@
             "<builder> mission has started.",
             "Greeting"
         ],
- 
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> purple blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ]
+    ],
+    "B31-A41-C67-1523029699567": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> what color?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B31-A41-C49-1523030061094": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> a loop up or down?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this way?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this side?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> this side?",
+            "Verification Questions"
+        ]
+    ],
+    "B31-A41-C56-1523030750111": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B31-A41-C68-1523031374960": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> is this the right height?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is that right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is this right?",
+            "Verification Questions"
+        ]
+    ],
+    "B31-A41-C72-1523032015687": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> does it matter which side?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is that right?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B31-A41-C30-1523032952253": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B31-A41-C34-1523033220178": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A44-C17-1523034060175": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> what are we building?",
+            "Task-level Questions"
+        ],
+      
