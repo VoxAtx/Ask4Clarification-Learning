@@ -19218,4 +19218,144 @@
             "<builder> ok",
             "Display Understanding"
         ],
-    
+        [
+            "<builder> no worries",
+            "Display Understanding"
+        ],
+        [
+            "<builder> good job",
+            "Others"
+        ]
+    ],
+    "B1-A44-C13-1523035422739": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is it flat?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> oh ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> purp = purple",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> good job",
+            "Others"
+        ]
+    ],
+    "B1-A44-C16-1523036004645": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> is the yellow stairs continuing?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good job",
+            "Others"
+        ]
+    ],
+    "B1-A44-C20-1523036364610": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> anywhere?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> it might be easier to describe all one color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> then build from there?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> back meaning away?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or towards me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> away?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display
