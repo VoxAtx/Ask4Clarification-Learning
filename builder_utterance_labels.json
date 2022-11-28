@@ -19496,4 +19496,148 @@
         ],
         [
             "<builder> uppercase right?",
-            "
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how much space?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> towards a?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B1-A44-C56-1523038570819": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> its symmetric?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> is this correct?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> everything else?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> oh so its the center?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good job",
+            "Others"
+        ]
+    ],
+    "B1-A44-C46-1523039009498": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> its all 2d right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> at the corner?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> good job",
+            "Others"
+        ]
+    ],
+    "B1-A44-C58-1523039254701": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> all flat?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> step?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> good job",
+            "Others"
+        ]
+    ],
+    "B24-A25-C3-1523052747464": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yo",
+            "Others"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ],
+        [
+            "<builder> study lmao",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i got my first job from minecraft",
+            "Others"
+        ],
+        [
+            "<builder> at a library",
+            "Others"
+        ],
+        [
+            "<builder> i was like \"i know how to code\"",
+            "Others"
+        ],
+        [
+            "<builder> and they werent interested",
+ 
