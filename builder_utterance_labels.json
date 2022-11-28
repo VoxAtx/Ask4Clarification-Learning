@@ -19358,4 +19358,142 @@
         ],
         [
             "<builder> ok",
-            "Display
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> diagonal step?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> left step?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> just to confirm",
+            "Verification Questions"
+        ]
+    ],
+    "B1-A44-C48-1523037288443": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is it all 2d?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> the one on the bottom?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> three blocks similar to the red?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> this is the edge of the building area...",
+            "Status Update"
+        ],
+        [
+            "<builder> where is the front?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> the arm?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> good job",
+            "Others"
+        ]
+    ],
+    "B1-A44-C40-1523038017799": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ]
+    ],
+    "B1-A44-C49-1523038152406": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> all red?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> uppercase right?",
+            "
