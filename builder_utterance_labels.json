@@ -19912,3 +19912,137 @@
             "<builder> gotcha",
             "Display Understanding"
         ],
+        [
+            "<builder> ya that's why i was a bit confused",
+            "Display Understanding"
+        ],
+        [
+            "<builder> np",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ya not sure which place you mean",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> right orange block of the pus sign?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> plus*",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> you mean here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> oh this plus sign!!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i thought the green one!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ],
+        [
+            "<builder> forgot there were two plus signs",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ya that's why i didn't understand when you said base of the structure",
+            "Display Understanding"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> haha",
+            "Others"
+        ],
+        [
+            "<builder> np",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> not sure if that's right",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> so this side...",
+            "Verification Questions"
+        ],
+        [
+            "<builder> now two squares above which block exactly?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> phew :)",
+            "Others"
+        ],
+        [
+            "<builder> haha",
+            "Others"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ]
+    ],
+    "B24-A25-C16-1523054900788": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B24-A25-C20-1523055406013": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> yeah",
+            "Others"
+        ],
+        [
+            "<builder> what corner are we starting at?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> yeah",
+            "Others"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ],
+        [
+            "<builder> forward = going farther from me?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> k",
+            "Others"
+        ],
+        [
+            "<builder> gotchu",
+            "Display Understanding"
+        ],
+        [
+            "<bu
