@@ -19777,4 +19777,138 @@
             "Display Understanding"
         ],
         [
-            "<builder> i thought by stack you me
+            "<builder> i thought by stack you meant vertically stack",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is this what you had in mind?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ah!",
+            "Others"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
+        [
+            "<builder> just curious...what are we building?",
+            "Others"
+        ],
+        [
+            "<builder> ah my bad",
+            "Greeting"
+        ],
+        [
+            "<builder> lol",
+            "Others"
+        ],
+        [
+            "<builder> okay",
+            "Display Understanding"
+        ],
+        [
+            "<builder> gg",
+            "Others"
+        ]
+    ],
+    "B24-A25-C13-1523053997650": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> lit",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> kool",
+            "Others"
+        ],
+        [
+            "<builder> k",
+            "Others"
+        ],
+        [
+            "<builder> dope",
+            "Others"
+        ]
+    ],
+    "B40-A14-C68-1523054593793": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> np",
+            "Display Understanding"
+        ],
+        [
+            "<builder> again below it right?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> you could've said a plus sign ;)",
+            "Suggestions"
+        ],
+        [
+            "<builder> but no problem",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ah i see!",
+            "Display Understanding"
+        ],
+        [
+            "<builder> true",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> another square around this one?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> center of the plus on top of the last orange block i placed?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ah got it",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> or is the plus bigger?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> which orange block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> gotcha",
+            "Display Understanding"
+        ],
