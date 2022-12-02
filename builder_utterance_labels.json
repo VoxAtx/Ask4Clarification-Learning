@@ -19640,4 +19640,141 @@
         ],
         [
             "<builder> and they werent interested",
- 
+            "Others"
+        ],
+        [
+            "<builder> till i said i could play minecraft",
+            "Others"
+        ]
+    ],
+    "B24-A25-C25-1523053026688": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> kool",
+            "Others"
+        ],
+        [
+            "<builder> is it two music notes?",
+            "Others"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> kool",
+            "Others"
+        ]
+    ],
+    "B40-A14-C3-1523053120928": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> anywhere on the grid?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B40-A14-C45-1523053306494": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi",
+            "Greeting"
+        ],
+        [
+            "<builder> anywhere?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> sure",
+            "Display Understanding"
+        ],
+        [
+            "<builder> exact center?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> or roughly?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like this?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> done?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> :)",
+            "Others"
+        ]
+    ],
+    "B24-A25-C43-1523053331176": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> aright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> k",
+            "Others"
+        ],
+        [
+            "<builder> what corner of the structure are we starting on",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B40-A14-C67-1523053894335": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> sounds good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> so a stack of yellow blocks?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> cool",
+            "Display Understanding"
+        ],
+        [
+            "<builder> on top of which block?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ah i see what you mean",
+            "Display Understanding"
+        ],
+        [
+            "<builder> i thought by stack you me
