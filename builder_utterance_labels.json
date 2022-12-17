@@ -20045,4 +20045,143 @@
             "Display Understanding"
         ],
         [
-            "<bu
+            "<builder> my b",
+            "Others"
+        ],
+        [
+            "<builder> aright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> kk",
+            "Others"
+        ],
+        [
+            "<builder> sweet",
+            "Display Understanding"
+        ]
+    ],
+    "B24-A25-C48-1523056660291": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> aright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> kool",
+            "Others"
+        ]
+    ],
+    "B44-A20-C39-1523283069379": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hello",
+            "Greeting"
+        ],
+        [
+            "<builder> is this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> how about now?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> nice!",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A20-C51-1523283403369": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready when you are",
+            "Greeting"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> lol my bad",
+            "Others"
+        ]
+    ],
+    "B44-A20-C26-1523283703891": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> this good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> alright",
+            "Display Understanding"
+        ],
+        [
+            "<builder> looks nice",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A20-C27-1523284130013": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> do you want me to put one down?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> which direction?",
+            "Instruction-level Questions"
+        ]
+    ],
+    "B44-A20-C29-1523284643015": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ]
+    ],
+    "B44-A20-C35-1523285026757": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> nice",
+            "Display Understanding"
+        ]
+    ],
+    "B44-A20-C57-1523285552691": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> 4",
+            "Others"
+        ],
+        [
+            "<builder> do we have enough space? i thought the blue blocks would be the closest to the corner",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> k",
+            "Others"
+        ]
+    ],
+    "B44-A20-C55-1523285912364": [
+        [
+            "<builder> mission has started.",
+         
