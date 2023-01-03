@@ -20184,4 +20184,140 @@
     "B44-A20-C55-1523285912364": [
         [
             "<builder> mission has started.",
-         
+            "Greeting"
+        ],
+        [
+            "<builder> does the orange shape look similar to the red one?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok nevermind lets just go from where i am sorry",
+            "Display Understanding"
+        ],
+        [
+            "<builder> nah it was me",
+            "Others"
+        ]
+    ],
+    "B44-A20-C65-1523286637662": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> done?",
+            "Verification Questions"
+        ]
+    ],
+    "B44-A20-C66-1523287015423": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> here?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> woo",
+            "Others"
+        ]
+    ],
+    "B37-A46-C3-1523304627789": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> hi!",
+            "Greeting"
+        ],
+        [
+            "<builder> next to each other?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B42-A12-C17-1523304629511": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> what should i do?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> how big and what color",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> how many across and how many tall",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> thats all?",
+            "Verification Questions"
+        ]
+    ],
+    "B37-A46-C59-1523304919107": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> are there 3 empty squares between the towers or 2 empty squares?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B42-A12-C63-1523304955372": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> what should i do?",
+            "Task-level Questions"
+        ],
+        [
+            "<builder> good",
+            "Di
