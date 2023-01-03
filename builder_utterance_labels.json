@@ -20320,4 +20320,143 @@
         ],
         [
             "<builder> good",
-            "Di
+            "Display Understanding"
+        ],
+        [
+            "<builder> what color",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ]
+    ],
+    "B42-A12-C39-1523305086735": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> standing by",
+            "Greeting"
+        ],
+        [
+            "<builder> for instructions",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> how long is each side of the square",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> that good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like that or othwr way?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> is that one good?",
+            "Verification Questions"
+        ]
+    ],
+    "B37-A46-C61-1523305429948": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> in a line down the middle of the square?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> like that?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ]
+    ],
+    "B42-A12-C79-1523305466875": [
+        [
+            "<builder> mission has started.",
+            "Greeting"
+        ],
+        [
+            "<builder> ready to go",
+            "Greeting"
+        ],
+        [
+            "<builder> good",
+            "Display Understanding"
+        ],
+        [
+            "<builder> on top?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> and what color?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> good?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> like so?",
+            "Verification Questions"
+        ],
+        [
+            "<builder> ok",
+            "Display Understanding"
+        ],
+        [
+            "<builder> you mean the other orange one?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> what configuration just a line?",
+            "Instruction-level Questions"
+        ],
+        [
+            "<builder> that good?",
+            "Verification Questions"
+        ]
+    ],
+    "B37-A46-C33-1523305851116": [
+        [
+            "<b
